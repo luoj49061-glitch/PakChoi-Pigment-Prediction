@@ -1,0 +1,866 @@
+[
+  {
+    "trait": "total_chl",
+    "model": "ColorIndices_Ridge",
+    "fold": 1,
+    "params": {
+      "ridge__alpha": 1
+    }
+  },
+  {
+    "trait": "total_chl",
+    "model": "ColorIndices_Ridge",
+    "fold": 2,
+    "params": {
+      "ridge__alpha": 0.01
+    }
+  },
+  {
+    "trait": "total_chl",
+    "model": "ColorIndices_Ridge",
+    "fold": 3,
+    "params": {
+      "ridge__alpha": 0.01
+    }
+  },
+  {
+    "trait": "total_chl",
+    "model": "ColorIndices_Ridge",
+    "fold": 4,
+    "params": {
+      "ridge__alpha": 0.01
+    }
+  },
+  {
+    "trait": "total_chl",
+    "model": "ColorIndices_Ridge",
+    "fold": 5,
+    "params": {
+      "ridge__alpha": 1
+    }
+  },
+  {
+    "trait": "total_chl",
+    "model": "ColorIndices_Ridge",
+    "fold": "final",
+    "params": {
+      "ridge__alpha": 0.01
+    }
+  },
+  {
+    "trait": "total_chl",
+    "model": "ColorMeans_Ridge",
+    "fold": 1,
+    "params": {
+      "ridge__alpha": 0.01
+    }
+  },
+  {
+    "trait": "total_chl",
+    "model": "ColorMeans_Ridge",
+    "fold": 2,
+    "params": {
+      "ridge__alpha": 0.1
+    }
+  },
+  {
+    "trait": "total_chl",
+    "model": "ColorMeans_Ridge",
+    "fold": 3,
+    "params": {
+      "ridge__alpha": 0.01
+    }
+  },
+  {
+    "trait": "total_chl",
+    "model": "ColorMeans_Ridge",
+    "fold": 4,
+    "params": {
+      "ridge__alpha": 0.01
+    }
+  },
+  {
+    "trait": "total_chl",
+    "model": "ColorMeans_Ridge",
+    "fold": 5,
+    "params": {
+      "ridge__alpha": 0.01
+    }
+  },
+  {
+    "trait": "total_chl",
+    "model": "ColorMeans_Ridge",
+    "fold": "final",
+    "params": {
+      "ridge__alpha": 0.01
+    }
+  },
+  {
+    "trait": "total_chl",
+    "model": "ColorMeanStd_Ridge",
+    "fold": 1,
+    "params": {
+      "ridge__alpha": 1
+    }
+  },
+  {
+    "trait": "total_chl",
+    "model": "ColorMeanStd_Ridge",
+    "fold": 2,
+    "params": {
+      "ridge__alpha": 1
+    }
+  },
+  {
+    "trait": "total_chl",
+    "model": "ColorMeanStd_Ridge",
+    "fold": 3,
+    "params": {
+      "ridge__alpha": 0.01
+    }
+  },
+  {
+    "trait": "total_chl",
+    "model": "ColorMeanStd_Ridge",
+    "fold": 4,
+    "params": {
+      "ridge__alpha": 1
+    }
+  },
+  {
+    "trait": "total_chl",
+    "model": "ColorMeanStd_Ridge",
+    "fold": 5,
+    "params": {
+      "ridge__alpha": 1
+    }
+  },
+  {
+    "trait": "total_chl",
+    "model": "ColorMeanStd_Ridge",
+    "fold": "final",
+    "params": {
+      "ridge__alpha": 1
+    }
+  },
+  {
+    "trait": "chl_a",
+    "model": "ColorIndices_Ridge",
+    "fold": 1,
+    "params": {
+      "ridge__alpha": 1
+    }
+  },
+  {
+    "trait": "chl_a",
+    "model": "ColorIndices_Ridge",
+    "fold": 2,
+    "params": {
+      "ridge__alpha": 0.01
+    }
+  },
+  {
+    "trait": "chl_a",
+    "model": "ColorIndices_Ridge",
+    "fold": 3,
+    "params": {
+      "ridge__alpha": 0.01
+    }
+  },
+  {
+    "trait": "chl_a",
+    "model": "ColorIndices_Ridge",
+    "fold": 4,
+    "params": {
+      "ridge__alpha": 0.01
+    }
+  },
+  {
+    "trait": "chl_a",
+    "model": "ColorIndices_Ridge",
+    "fold": 5,
+    "params": {
+      "ridge__alpha": 0.1
+    }
+  },
+  {
+    "trait": "chl_a",
+    "model": "ColorIndices_Ridge",
+    "fold": "final",
+    "params": {
+      "ridge__alpha": 0.01
+    }
+  },
+  {
+    "trait": "chl_a",
+    "model": "ColorMeans_Ridge",
+    "fold": 1,
+    "params": {
+      "ridge__alpha": 0.01
+    }
+  },
+  {
+    "trait": "chl_a",
+    "model": "ColorMeans_Ridge",
+    "fold": 2,
+    "params": {
+      "ridge__alpha": 0.01
+    }
+  },
+  {
+    "trait": "chl_a",
+    "model": "ColorMeans_Ridge",
+    "fold": 3,
+    "params": {
+      "ridge__alpha": 0.01
+    }
+  },
+  {
+    "trait": "chl_a",
+    "model": "ColorMeans_Ridge",
+    "fold": 4,
+    "params": {
+      "ridge__alpha": 0.01
+    }
+  },
+  {
+    "trait": "chl_a",
+    "model": "ColorMeans_Ridge",
+    "fold": 5,
+    "params": {
+      "ridge__alpha": 0.01
+    }
+  },
+  {
+    "trait": "chl_a",
+    "model": "ColorMeans_Ridge",
+    "fold": "final",
+    "params": {
+      "ridge__alpha": 0.01
+    }
+  },
+  {
+    "trait": "chl_a",
+    "model": "ColorMeanStd_Ridge",
+    "fold": 1,
+    "params": {
+      "ridge__alpha": 0.1
+    }
+  },
+  {
+    "trait": "chl_a",
+    "model": "ColorMeanStd_Ridge",
+    "fold": 2,
+    "params": {
+      "ridge__alpha": 0.1
+    }
+  },
+  {
+    "trait": "chl_a",
+    "model": "ColorMeanStd_Ridge",
+    "fold": 3,
+    "params": {
+      "ridge__alpha": 0.01
+    }
+  },
+  {
+    "trait": "chl_a",
+    "model": "ColorMeanStd_Ridge",
+    "fold": 4,
+    "params": {
+      "ridge__alpha": 0.01
+    }
+  },
+  {
+    "trait": "chl_a",
+    "model": "ColorMeanStd_Ridge",
+    "fold": 5,
+    "params": {
+      "ridge__alpha": 0.1
+    }
+  },
+  {
+    "trait": "chl_a",
+    "model": "ColorMeanStd_Ridge",
+    "fold": "final",
+    "params": {
+      "ridge__alpha": 0.01
+    }
+  },
+  {
+    "trait": "chl_b",
+    "model": "ColorIndices_Ridge",
+    "fold": 1,
+    "params": {
+      "ridge__alpha": 1000
+    }
+  },
+  {
+    "trait": "chl_b",
+    "model": "ColorIndices_Ridge",
+    "fold": 2,
+    "params": {
+      "ridge__alpha": 0.1
+    }
+  },
+  {
+    "trait": "chl_b",
+    "model": "ColorIndices_Ridge",
+    "fold": 3,
+    "params": {
+      "ridge__alpha": 0.01
+    }
+  },
+  {
+    "trait": "chl_b",
+    "model": "ColorIndices_Ridge",
+    "fold": 4,
+    "params": {
+      "ridge__alpha": 0.01
+    }
+  },
+  {
+    "trait": "chl_b",
+    "model": "ColorIndices_Ridge",
+    "fold": 5,
+    "params": {
+      "ridge__alpha": 10
+    }
+  },
+  {
+    "trait": "chl_b",
+    "model": "ColorIndices_Ridge",
+    "fold": "final",
+    "params": {
+      "ridge__alpha": 0.01
+    }
+  },
+  {
+    "trait": "chl_b",
+    "model": "ColorMeans_Ridge",
+    "fold": 1,
+    "params": {
+      "ridge__alpha": 0.1
+    }
+  },
+  {
+    "trait": "chl_b",
+    "model": "ColorMeans_Ridge",
+    "fold": 2,
+    "params": {
+      "ridge__alpha": 0.1
+    }
+  },
+  {
+    "trait": "chl_b",
+    "model": "ColorMeans_Ridge",
+    "fold": 3,
+    "params": {
+      "ridge__alpha": 0.01
+    }
+  },
+  {
+    "trait": "chl_b",
+    "model": "ColorMeans_Ridge",
+    "fold": 4,
+    "params": {
+      "ridge__alpha": 0.01
+    }
+  },
+  {
+    "trait": "chl_b",
+    "model": "ColorMeans_Ridge",
+    "fold": 5,
+    "params": {
+      "ridge__alpha": 1
+    }
+  },
+  {
+    "trait": "chl_b",
+    "model": "ColorMeans_Ridge",
+    "fold": "final",
+    "params": {
+      "ridge__alpha": 0.1
+    }
+  },
+  {
+    "trait": "chl_b",
+    "model": "ColorMeanStd_Ridge",
+    "fold": 1,
+    "params": {
+      "ridge__alpha": 1
+    }
+  },
+  {
+    "trait": "chl_b",
+    "model": "ColorMeanStd_Ridge",
+    "fold": 2,
+    "params": {
+      "ridge__alpha": 1
+    }
+  },
+  {
+    "trait": "chl_b",
+    "model": "ColorMeanStd_Ridge",
+    "fold": 3,
+    "params": {
+      "ridge__alpha": 10
+    }
+  },
+  {
+    "trait": "chl_b",
+    "model": "ColorMeanStd_Ridge",
+    "fold": 4,
+    "params": {
+      "ridge__alpha": 1
+    }
+  },
+  {
+    "trait": "chl_b",
+    "model": "ColorMeanStd_Ridge",
+    "fold": 5,
+    "params": {
+      "ridge__alpha": 1
+    }
+  },
+  {
+    "trait": "chl_b",
+    "model": "ColorMeanStd_Ridge",
+    "fold": "final",
+    "params": {
+      "ridge__alpha": 1
+    }
+  },
+  {
+    "trait": "carot",
+    "model": "ColorIndices_Ridge",
+    "fold": 1,
+    "params": {
+      "ridge__alpha": 1000
+    }
+  },
+  {
+    "trait": "carot",
+    "model": "ColorIndices_Ridge",
+    "fold": 2,
+    "params": {
+      "ridge__alpha": 0.1
+    }
+  },
+  {
+    "trait": "carot",
+    "model": "ColorIndices_Ridge",
+    "fold": 3,
+    "params": {
+      "ridge__alpha": 0.01
+    }
+  },
+  {
+    "trait": "carot",
+    "model": "ColorIndices_Ridge",
+    "fold": 4,
+    "params": {
+      "ridge__alpha": 0.01
+    }
+  },
+  {
+    "trait": "carot",
+    "model": "ColorIndices_Ridge",
+    "fold": 5,
+    "params": {
+      "ridge__alpha": 100
+    }
+  },
+  {
+    "trait": "carot",
+    "model": "ColorIndices_Ridge",
+    "fold": "final",
+    "params": {
+      "ridge__alpha": 0.01
+    }
+  },
+  {
+    "trait": "carot",
+    "model": "ColorMeans_Ridge",
+    "fold": 1,
+    "params": {
+      "ridge__alpha": 100
+    }
+  },
+  {
+    "trait": "carot",
+    "model": "ColorMeans_Ridge",
+    "fold": 2,
+    "params": {
+      "ridge__alpha": 1
+    }
+  },
+  {
+    "trait": "carot",
+    "model": "ColorMeans_Ridge",
+    "fold": 3,
+    "params": {
+      "ridge__alpha": 0.1
+    }
+  },
+  {
+    "trait": "carot",
+    "model": "ColorMeans_Ridge",
+    "fold": 4,
+    "params": {
+      "ridge__alpha": 0.01
+    }
+  },
+  {
+    "trait": "carot",
+    "model": "ColorMeans_Ridge",
+    "fold": 5,
+    "params": {
+      "ridge__alpha": 10
+    }
+  },
+  {
+    "trait": "carot",
+    "model": "ColorMeans_Ridge",
+    "fold": "final",
+    "params": {
+      "ridge__alpha": 10
+    }
+  },
+  {
+    "trait": "carot",
+    "model": "ColorMeanStd_Ridge",
+    "fold": 1,
+    "params": {
+      "ridge__alpha": 1
+    }
+  },
+  {
+    "trait": "carot",
+    "model": "ColorMeanStd_Ridge",
+    "fold": 2,
+    "params": {
+      "ridge__alpha": 10
+    }
+  },
+  {
+    "trait": "carot",
+    "model": "ColorMeanStd_Ridge",
+    "fold": 3,
+    "params": {
+      "ridge__alpha": 10
+    }
+  },
+  {
+    "trait": "carot",
+    "model": "ColorMeanStd_Ridge",
+    "fold": 4,
+    "params": {
+      "ridge__alpha": 1
+    }
+  },
+  {
+    "trait": "carot",
+    "model": "ColorMeanStd_Ridge",
+    "fold": 5,
+    "params": {
+      "ridge__alpha": 1
+    }
+  },
+  {
+    "trait": "carot",
+    "model": "ColorMeanStd_Ridge",
+    "fold": "final",
+    "params": {
+      "ridge__alpha": 1
+    }
+  },
+  {
+    "trait": "total_carot",
+    "model": "ColorIndices_Ridge",
+    "fold": 1,
+    "params": {
+      "ridge__alpha": 1000
+    }
+  },
+  {
+    "trait": "total_carot",
+    "model": "ColorIndices_Ridge",
+    "fold": 2,
+    "params": {
+      "ridge__alpha": 0.01
+    }
+  },
+  {
+    "trait": "total_carot",
+    "model": "ColorIndices_Ridge",
+    "fold": 3,
+    "params": {
+      "ridge__alpha": 0.01
+    }
+  },
+  {
+    "trait": "total_carot",
+    "model": "ColorIndices_Ridge",
+    "fold": 4,
+    "params": {
+      "ridge__alpha": 0.01
+    }
+  },
+  {
+    "trait": "total_carot",
+    "model": "ColorIndices_Ridge",
+    "fold": 5,
+    "params": {
+      "ridge__alpha": 100
+    }
+  },
+  {
+    "trait": "total_carot",
+    "model": "ColorIndices_Ridge",
+    "fold": "final",
+    "params": {
+      "ridge__alpha": 0.01
+    }
+  },
+  {
+    "trait": "total_carot",
+    "model": "ColorMeans_Ridge",
+    "fold": 1,
+    "params": {
+      "ridge__alpha": 100
+    }
+  },
+  {
+    "trait": "total_carot",
+    "model": "ColorMeans_Ridge",
+    "fold": 2,
+    "params": {
+      "ridge__alpha": 10
+    }
+  },
+  {
+    "trait": "total_carot",
+    "model": "ColorMeans_Ridge",
+    "fold": 3,
+    "params": {
+      "ridge__alpha": 0.01
+    }
+  },
+  {
+    "trait": "total_carot",
+    "model": "ColorMeans_Ridge",
+    "fold": 4,
+    "params": {
+      "ridge__alpha": 0.01
+    }
+  },
+  {
+    "trait": "total_carot",
+    "model": "ColorMeans_Ridge",
+    "fold": 5,
+    "params": {
+      "ridge__alpha": 10
+    }
+  },
+  {
+    "trait": "total_carot",
+    "model": "ColorMeans_Ridge",
+    "fold": "final",
+    "params": {
+      "ridge__alpha": 10
+    }
+  },
+  {
+    "trait": "total_carot",
+    "model": "ColorMeanStd_Ridge",
+    "fold": 1,
+    "params": {
+      "ridge__alpha": 1
+    }
+  },
+  {
+    "trait": "total_carot",
+    "model": "ColorMeanStd_Ridge",
+    "fold": 2,
+    "params": {
+      "ridge__alpha": 10
+    }
+  },
+  {
+    "trait": "total_carot",
+    "model": "ColorMeanStd_Ridge",
+    "fold": 3,
+    "params": {
+      "ridge__alpha": 10
+    }
+  },
+  {
+    "trait": "total_carot",
+    "model": "ColorMeanStd_Ridge",
+    "fold": 4,
+    "params": {
+      "ridge__alpha": 1
+    }
+  },
+  {
+    "trait": "total_carot",
+    "model": "ColorMeanStd_Ridge",
+    "fold": 5,
+    "params": {
+      "ridge__alpha": 1
+    }
+  },
+  {
+    "trait": "total_carot",
+    "model": "ColorMeanStd_Ridge",
+    "fold": "final",
+    "params": {
+      "ridge__alpha": 10
+    }
+  },
+  {
+    "trait": "SPAD",
+    "model": "ColorIndices_Ridge",
+    "fold": 1,
+    "params": {
+      "ridge__alpha": 0.01
+    }
+  },
+  {
+    "trait": "SPAD",
+    "model": "ColorIndices_Ridge",
+    "fold": 2,
+    "params": {
+      "ridge__alpha": 0.01
+    }
+  },
+  {
+    "trait": "SPAD",
+    "model": "ColorIndices_Ridge",
+    "fold": 3,
+    "params": {
+      "ridge__alpha": 0.01
+    }
+  },
+  {
+    "trait": "SPAD",
+    "model": "ColorIndices_Ridge",
+    "fold": 4,
+    "params": {
+      "ridge__alpha": 0.01
+    }
+  },
+  {
+    "trait": "SPAD",
+    "model": "ColorIndices_Ridge",
+    "fold": 5,
+    "params": {
+      "ridge__alpha": 0.01
+    }
+  },
+  {
+    "trait": "SPAD",
+    "model": "ColorIndices_Ridge",
+    "fold": "final",
+    "params": {
+      "ridge__alpha": 0.01
+    }
+  },
+  {
+    "trait": "SPAD",
+    "model": "ColorMeans_Ridge",
+    "fold": 1,
+    "params": {
+      "ridge__alpha": 0.01
+    }
+  },
+  {
+    "trait": "SPAD",
+    "model": "ColorMeans_Ridge",
+    "fold": 2,
+    "params": {
+      "ridge__alpha": 0.01
+    }
+  },
+  {
+    "trait": "SPAD",
+    "model": "ColorMeans_Ridge",
+    "fold": 3,
+    "params": {
+      "ridge__alpha": 0.01
+    }
+  },
+  {
+    "trait": "SPAD",
+    "model": "ColorMeans_Ridge",
+    "fold": 4,
+    "params": {
+      "ridge__alpha": 0.01
+    }
+  },
+  {
+    "trait": "SPAD",
+    "model": "ColorMeans_Ridge",
+    "fold": 5,
+    "params": {
+      "ridge__alpha": 0.01
+    }
+  },
+  {
+    "trait": "SPAD",
+    "model": "ColorMeans_Ridge",
+    "fold": "final",
+    "params": {
+      "ridge__alpha": 0.01
+    }
+  },
+  {
+    "trait": "SPAD",
+    "model": "ColorMeanStd_Ridge",
+    "fold": 1,
+    "params": {
+      "ridge__alpha": 0.01
+    }
+  },
+  {
+    "trait": "SPAD",
+    "model": "ColorMeanStd_Ridge",
+    "fold": 2,
+    "params": {
+      "ridge__alpha": 0.01
+    }
+  },
+  {
+    "trait": "SPAD",
+    "model": "ColorMeanStd_Ridge",
+    "fold": 3,
+    "params": {
+      "ridge__alpha": 0.01
+    }
+  },
+  {
+    "trait": "SPAD",
+    "model": "ColorMeanStd_Ridge",
+    "fold": 4,
+    "params": {
+      "ridge__alpha": 0.01
+    }
+  },
+  {
+    "trait": "SPAD",
+    "model": "ColorMeanStd_Ridge",
+    "fold": 5,
+    "params": {
+      "ridge__alpha": 0.01
+    }
+  },
+  {
+    "trait": "SPAD",
+    "model": "ColorMeanStd_Ridge",
+    "fold": "final",
+    "params": {
+      "ridge__alpha": 0.01
+    }
+  }
+]

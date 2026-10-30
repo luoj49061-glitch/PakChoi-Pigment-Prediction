@@ -1,0 +1,43 @@
+{
+  "models": [
+    "Mean_R",
+    "Mean_G",
+    "Mean_B",
+    "G_over_R",
+    "G_over_B",
+    "Normalized_G",
+    "NGRDI",
+    "NGBDI",
+    "GLI",
+    "ExG",
+    "VARI",
+    "RGB_OLS",
+    "RGB_Quadratic"
+  ],
+  "labels": {
+    "Mean_R": "Mean R",
+    "Mean_G": "Mean G",
+    "Mean_B": "Mean B",
+    "G_over_R": "G/R",
+    "G_over_B": "G/B",
+    "Normalized_G": "Normalized G",
+    "NGRDI": "NGRDI",
+    "NGBDI": "NGBDI",
+    "GLI": "GLI",
+    "ExG": "ExG",
+    "VARI": "VARI",
+    "RGB_OLS": "RGB linear",
+    "RGB_Quadratic": "RGB quadratic"
+  },
+  "additional_indices": {
+    "Mean_R": "R",
+    "Mean_B": "B",
+    "G_over_B": "G/B",
+    "NGBDI": "(G-B)/(G+B)",
+    "VARI": "(G-R)/(G+R-B)"
+  },
+  "RGB_Quadratic": "9 terms: R,G,B,R2,G2,B2,RG,RB,GB; intercept; standardize after expansion; ridge alpha selected by inner five-fold CV from 0.01,0.1,1,10,100",
+  "selection": "Highest mean outer five-fold R2; test set not consulted for selection",
+  "split": "Same saved 691 development,173 test and cv_fold identifiers as core models",
+  "VARI_reference": "https://doi.org/10.1016/S0034-4257(01)00289-9"
+}

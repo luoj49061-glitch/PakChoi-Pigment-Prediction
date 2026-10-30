@@ -1,0 +1,15 @@
+{
+  "variant": "lr_high",
+  "trial_run": "20260921_093836_resnet_tuning_cv5_trial_lr_high",
+  "chl_b_validation_R2": 0.6868889021653752,
+  "SPAD_validation_R2": 0.8444883830772069,
+  "mean_validation_R2": 0.765688642621291,
+  "parameters": {
+    "geometry_augmentation": "orthogonal",
+    "freeze_batchnorm_running_stats": false,
+    "learning_rate": 0.0003,
+    "weight_decay": 0.001
+  },
+  "criterion": "Mean chl_b/SPAD internal-validation R2; no outer scoring or fixed test observations in search",
+  "caveat": "Internal selection scores are optimistic selection criteria, not reported generalisation performance."
+}

@@ -1,0 +1,20 @@
+{
+  "new_models": {
+    "ColorIndices_Ridge": 11,
+    "ColorMeans_Ridge": 9,
+    "ColorMeanStd_Ridge": 18
+  },
+  "ridge_alpha_grid": [
+    0.01,
+    0.1,
+    1,
+    10,
+    100,
+    1000
+  ],
+  "inner_cv": "KFold(5,shuffle=True,random_state=42)",
+  "outer_cv": "saved five development folds",
+  "selection": "maximum mean outer-fold R2 across 16 candidates; test scores not used",
+  "features": "foreground-masked RGB unblurred; HSV/Lab Gaussian-smoothed; mean and population SD",
+  "metric_validation": "All 192 model/trait/subset rows recomputed with sklearn; identifiers and targets matched manifest"
+}

@@ -1,0 +1,38 @@
+{
+  "sets": {
+    "ColorMeans_Quadratic": [
+      "RGB0_mean",
+      "RGB1_mean",
+      "RGB2_mean",
+      "HSV0_mean",
+      "HSV1_mean",
+      "HSV2_mean",
+      "Lab0_mean",
+      "Lab1_mean",
+      "Lab2_mean"
+    ],
+    "ColorMeanStd_Spline": [
+      "RGB0_mean",
+      "RGB0_std",
+      "RGB1_mean",
+      "RGB1_std",
+      "RGB2_mean",
+      "RGB2_std",
+      "HSV0_mean",
+      "HSV0_std",
+      "HSV1_mean",
+      "HSV1_std",
+      "HSV2_mean",
+      "HSV2_std",
+      "Lab0_mean",
+      "Lab0_std",
+      "Lab1_mean",
+      "Lab1_std",
+      "Lab2_mean",
+      "Lab2_std"
+    ]
+  },
+  "quadratic": "54 terms from nine means; ridge alpha .01,.1,1,10,100,1000",
+  "spline": "Additive degree-2 splines on 18 variables, quantile knots 3 or 4, linear extrapolation, no interactions; inner five-fold selection of knots and ridge alpha",
+  "selection": "saved outer five-fold R2; no test selection"
+}
