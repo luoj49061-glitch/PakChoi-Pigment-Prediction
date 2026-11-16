@@ -1,0 +1,614 @@
+[
+  {
+    "trait": "total_chl",
+    "model": "ColorMeans_Quadratic",
+    "fold": 1,
+    "params": {
+      "ridge__alpha": 0.01
+    }
+  },
+  {
+    "trait": "total_chl",
+    "model": "ColorMeans_Quadratic",
+    "fold": 2,
+    "params": {
+      "ridge__alpha": 0.01
+    }
+  },
+  {
+    "trait": "total_chl",
+    "model": "ColorMeans_Quadratic",
+    "fold": 3,
+    "params": {
+      "ridge__alpha": 0.01
+    }
+  },
+  {
+    "trait": "total_chl",
+    "model": "ColorMeans_Quadratic",
+    "fold": 4,
+    "params": {
+      "ridge__alpha": 0.01
+    }
+  },
+  {
+    "trait": "total_chl",
+    "model": "ColorMeans_Quadratic",
+    "fold": 5,
+    "params": {
+      "ridge__alpha": 0.1
+    }
+  },
+  {
+    "trait": "total_chl",
+    "model": "ColorMeans_Quadratic",
+    "fold": "final",
+    "params": {
+      "ridge__alpha": 0.01
+    }
+  },
+  {
+    "trait": "total_chl",
+    "model": "ColorMeanStd_Spline",
+    "fold": 1,
+    "params": {
+      "basis__n_knots": 4,
+      "ridge__alpha": 100
+    }
+  },
+  {
+    "trait": "total_chl",
+    "model": "ColorMeanStd_Spline",
+    "fold": 2,
+    "params": {
+      "basis__n_knots": 3,
+      "ridge__alpha": 1
+    }
+  },
+  {
+    "trait": "total_chl",
+    "model": "ColorMeanStd_Spline",
+    "fold": 3,
+    "params": {
+      "basis__n_knots": 3,
+      "ridge__alpha": 0.01
+    }
+  },
+  {
+    "trait": "total_chl",
+    "model": "ColorMeanStd_Spline",
+    "fold": 4,
+    "params": {
+      "basis__n_knots": 4,
+      "ridge__alpha": 0.01
+    }
+  },
+  {
+    "trait": "total_chl",
+    "model": "ColorMeanStd_Spline",
+    "fold": 5,
+    "params": {
+      "basis__n_knots": 4,
+      "ridge__alpha": 100
+    }
+  },
+  {
+    "trait": "total_chl",
+    "model": "ColorMeanStd_Spline",
+    "fold": "final",
+    "params": {
+      "basis__n_knots": 3,
+      "ridge__alpha": 1
+    }
+  },
+  {
+    "trait": "chl_a",
+    "model": "ColorMeans_Quadratic",
+    "fold": 1,
+    "params": {
+      "ridge__alpha": 0.01
+    }
+  },
+  {
+    "trait": "chl_a",
+    "model": "ColorMeans_Quadratic",
+    "fold": 2,
+    "params": {
+      "ridge__alpha": 0.01
+    }
+  },
+  {
+    "trait": "chl_a",
+    "model": "ColorMeans_Quadratic",
+    "fold": 3,
+    "params": {
+      "ridge__alpha": 0.01
+    }
+  },
+  {
+    "trait": "chl_a",
+    "model": "ColorMeans_Quadratic",
+    "fold": 4,
+    "params": {
+      "ridge__alpha": 0.01
+    }
+  },
+  {
+    "trait": "chl_a",
+    "model": "ColorMeans_Quadratic",
+    "fold": 5,
+    "params": {
+      "ridge__alpha": 0.01
+    }
+  },
+  {
+    "trait": "chl_a",
+    "model": "ColorMeans_Quadratic",
+    "fold": "final",
+    "params": {
+      "ridge__alpha": 0.01
+    }
+  },
+  {
+    "trait": "chl_a",
+    "model": "ColorMeanStd_Spline",
+    "fold": 1,
+    "params": {
+      "basis__n_knots": 4,
+      "ridge__alpha": 0.1
+    }
+  },
+  {
+    "trait": "chl_a",
+    "model": "ColorMeanStd_Spline",
+    "fold": 2,
+    "params": {
+      "basis__n_knots": 3,
+      "ridge__alpha": 1
+    }
+  },
+  {
+    "trait": "chl_a",
+    "model": "ColorMeanStd_Spline",
+    "fold": 3,
+    "params": {
+      "basis__n_knots": 4,
+      "ridge__alpha": 0.01
+    }
+  },
+  {
+    "trait": "chl_a",
+    "model": "ColorMeanStd_Spline",
+    "fold": 4,
+    "params": {
+      "basis__n_knots": 4,
+      "ridge__alpha": 0.01
+    }
+  },
+  {
+    "trait": "chl_a",
+    "model": "ColorMeanStd_Spline",
+    "fold": 5,
+    "params": {
+      "basis__n_knots": 4,
+      "ridge__alpha": 0.1
+    }
+  },
+  {
+    "trait": "chl_a",
+    "model": "ColorMeanStd_Spline",
+    "fold": "final",
+    "params": {
+      "basis__n_knots": 3,
+      "ridge__alpha": 0.1
+    }
+  },
+  {
+    "trait": "chl_b",
+    "model": "ColorMeans_Quadratic",
+    "fold": 1,
+    "params": {
+      "ridge__alpha": 100
+    }
+  },
+  {
+    "trait": "chl_b",
+    "model": "ColorMeans_Quadratic",
+    "fold": 2,
+    "params": {
+      "ridge__alpha": 0.01
+    }
+  },
+  {
+    "trait": "chl_b",
+    "model": "ColorMeans_Quadratic",
+    "fold": 3,
+    "params": {
+      "ridge__alpha": 0.01
+    }
+  },
+  {
+    "trait": "chl_b",
+    "model": "ColorMeans_Quadratic",
+    "fold": 4,
+    "params": {
+      "ridge__alpha": 0.01
+    }
+  },
+  {
+    "trait": "chl_b",
+    "model": "ColorMeans_Quadratic",
+    "fold": 5,
+    "params": {
+      "ridge__alpha": 10
+    }
+  },
+  {
+    "trait": "chl_b",
+    "model": "ColorMeans_Quadratic",
+    "fold": "final",
+    "params": {
+      "ridge__alpha": 0.01
+    }
+  },
+  {
+    "trait": "chl_b",
+    "model": "ColorMeanStd_Spline",
+    "fold": 1,
+    "params": {
+      "basis__n_knots": 3,
+      "ridge__alpha": 100
+    }
+  },
+  {
+    "trait": "chl_b",
+    "model": "ColorMeanStd_Spline",
+    "fold": 2,
+    "params": {
+      "basis__n_knots": 3,
+      "ridge__alpha": 100
+    }
+  },
+  {
+    "trait": "chl_b",
+    "model": "ColorMeanStd_Spline",
+    "fold": 3,
+    "params": {
+      "basis__n_knots": 3,
+      "ridge__alpha": 100
+    }
+  },
+  {
+    "trait": "chl_b",
+    "model": "ColorMeanStd_Spline",
+    "fold": 4,
+    "params": {
+      "basis__n_knots": 3,
+      "ridge__alpha": 1
+    }
+  },
+  {
+    "trait": "chl_b",
+    "model": "ColorMeanStd_Spline",
+    "fold": 5,
+    "params": {
+      "basis__n_knots": 3,
+      "ridge__alpha": 100
+    }
+  },
+  {
+    "trait": "chl_b",
+    "model": "ColorMeanStd_Spline",
+    "fold": "final",
+    "params": {
+      "basis__n_knots": 3,
+      "ridge__alpha": 1
+    }
+  },
+  {
+    "trait": "carot",
+    "model": "ColorMeans_Quadratic",
+    "fold": 1,
+    "params": {
+      "ridge__alpha": 100
+    }
+  },
+  {
+    "trait": "carot",
+    "model": "ColorMeans_Quadratic",
+    "fold": 2,
+    "params": {
+      "ridge__alpha": 0.1
+    }
+  },
+  {
+    "trait": "carot",
+    "model": "ColorMeans_Quadratic",
+    "fold": 3,
+    "params": {
+      "ridge__alpha": 0.01
+    }
+  },
+  {
+    "trait": "carot",
+    "model": "ColorMeans_Quadratic",
+    "fold": 4,
+    "params": {
+      "ridge__alpha": 0.01
+    }
+  },
+  {
+    "trait": "carot",
+    "model": "ColorMeans_Quadratic",
+    "fold": 5,
+    "params": {
+      "ridge__alpha": 100
+    }
+  },
+  {
+    "trait": "carot",
+    "model": "ColorMeans_Quadratic",
+    "fold": "final",
+    "params": {
+      "ridge__alpha": 0.01
+    }
+  },
+  {
+    "trait": "carot",
+    "model": "ColorMeanStd_Spline",
+    "fold": 1,
+    "params": {
+      "basis__n_knots": 3,
+      "ridge__alpha": 100
+    }
+  },
+  {
+    "trait": "carot",
+    "model": "ColorMeanStd_Spline",
+    "fold": 2,
+    "params": {
+      "basis__n_knots": 3,
+      "ridge__alpha": 100
+    }
+  },
+  {
+    "trait": "carot",
+    "model": "ColorMeanStd_Spline",
+    "fold": 3,
+    "params": {
+      "basis__n_knots": 3,
+      "ridge__alpha": 100
+    }
+  },
+  {
+    "trait": "carot",
+    "model": "ColorMeanStd_Spline",
+    "fold": 4,
+    "params": {
+      "basis__n_knots": 3,
+      "ridge__alpha": 1
+    }
+  },
+  {
+    "trait": "carot",
+    "model": "ColorMeanStd_Spline",
+    "fold": 5,
+    "params": {
+      "basis__n_knots": 3,
+      "ridge__alpha": 100
+    }
+  },
+  {
+    "trait": "carot",
+    "model": "ColorMeanStd_Spline",
+    "fold": "final",
+    "params": {
+      "basis__n_knots": 3,
+      "ridge__alpha": 1
+    }
+  },
+  {
+    "trait": "total_carot",
+    "model": "ColorMeans_Quadratic",
+    "fold": 1,
+    "params": {
+      "ridge__alpha": 100
+    }
+  },
+  {
+    "trait": "total_carot",
+    "model": "ColorMeans_Quadratic",
+    "fold": 2,
+    "params": {
+      "ridge__alpha": 0.1
+    }
+  },
+  {
+    "trait": "total_carot",
+    "model": "ColorMeans_Quadratic",
+    "fold": 3,
+    "params": {
+      "ridge__alpha": 0.01
+    }
+  },
+  {
+    "trait": "total_carot",
+    "model": "ColorMeans_Quadratic",
+    "fold": 4,
+    "params": {
+      "ridge__alpha": 0.01
+    }
+  },
+  {
+    "trait": "total_carot",
+    "model": "ColorMeans_Quadratic",
+    "fold": 5,
+    "params": {
+      "ridge__alpha": 100
+    }
+  },
+  {
+    "trait": "total_carot",
+    "model": "ColorMeans_Quadratic",
+    "fold": "final",
+    "params": {
+      "ridge__alpha": 0.01
+    }
+  },
+  {
+    "trait": "total_carot",
+    "model": "ColorMeanStd_Spline",
+    "fold": 1,
+    "params": {
+      "basis__n_knots": 3,
+      "ridge__alpha": 100
+    }
+  },
+  {
+    "trait": "total_carot",
+    "model": "ColorMeanStd_Spline",
+    "fold": 2,
+    "params": {
+      "basis__n_knots": 3,
+      "ridge__alpha": 1
+    }
+  },
+  {
+    "trait": "total_carot",
+    "model": "ColorMeanStd_Spline",
+    "fold": 3,
+    "params": {
+      "basis__n_knots": 3,
+      "ridge__alpha": 0.01
+    }
+  },
+  {
+    "trait": "total_carot",
+    "model": "ColorMeanStd_Spline",
+    "fold": 4,
+    "params": {
+      "basis__n_knots": 4,
+      "ridge__alpha": 0.01
+    }
+  },
+  {
+    "trait": "total_carot",
+    "model": "ColorMeanStd_Spline",
+    "fold": 5,
+    "params": {
+      "basis__n_knots": 3,
+      "ridge__alpha": 100
+    }
+  },
+  {
+    "trait": "total_carot",
+    "model": "ColorMeanStd_Spline",
+    "fold": "final",
+    "params": {
+      "basis__n_knots": 4,
+      "ridge__alpha": 0.01
+    }
+  },
+  {
+    "trait": "SPAD",
+    "model": "ColorMeans_Quadratic",
+    "fold": 1,
+    "params": {
+      "ridge__alpha": 0.01
+    }
+  },
+  {
+    "trait": "SPAD",
+    "model": "ColorMeans_Quadratic",
+    "fold": 2,
+    "params": {
+      "ridge__alpha": 0.01
+    }
+  },
+  {
+    "trait": "SPAD",
+    "model": "ColorMeans_Quadratic",
+    "fold": 3,
+    "params": {
+      "ridge__alpha": 0.01
+    }
+  },
+  {
+    "trait": "SPAD",
+    "model": "ColorMeans_Quadratic",
+    "fold": 4,
+    "params": {
+      "ridge__alpha": 0.01
+    }
+  },
+  {
+    "trait": "SPAD",
+    "model": "ColorMeans_Quadratic",
+    "fold": 5,
+    "params": {
+      "ridge__alpha": 0.01
+    }
+  },
+  {
+    "trait": "SPAD",
+    "model": "ColorMeans_Quadratic",
+    "fold": "final",
+    "params": {
+      "ridge__alpha": 0.01
+    }
+  },
+  {
+    "trait": "SPAD",
+    "model": "ColorMeanStd_Spline",
+    "fold": 1,
+    "params": {
+      "basis__n_knots": 4,
+      "ridge__alpha": 0.1
+    }
+  },
+  {
+    "trait": "SPAD",
+    "model": "ColorMeanStd_Spline",
+    "fold": 2,
+    "params": {
+      "basis__n_knots": 4,
+      "ridge__alpha": 0.01
+    }
+  },
+  {
+    "trait": "SPAD",
+    "model": "ColorMeanStd_Spline",
+    "fold": 3,
+    "params": {
+      "basis__n_knots": 3,
+      "ridge__alpha": 0.01
+    }
+  },
+  {
+    "trait": "SPAD",
+    "model": "ColorMeanStd_Spline",
+    "fold": 4,
+    "params": {
+      "basis__n_knots": 4,
+      "ridge__alpha": 0.01
+    }
+  },
+  {
+    "trait": "SPAD",
+    "model": "ColorMeanStd_Spline",
+    "fold": 5,
+    "params": {
+      "basis__n_knots": 3,
+      "ridge__alpha": 0.01
+    }
+  },
+  {
+    "trait": "SPAD",
+    "model": "ColorMeanStd_Spline",
+    "fold": "final",
+    "params": {
+      "basis__n_knots": 4,
+      "ridge__alpha": 0.01
+    }
+  }
+]
