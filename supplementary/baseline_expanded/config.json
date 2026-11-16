@@ -1,0 +1,2882 @@
+[
+  {
+    "trait": "total_chl",
+    "model": "Mean_R",
+    "fold": 1,
+    "params": {}
+  },
+  {
+    "trait": "total_chl",
+    "model": "Mean_R",
+    "fold": 2,
+    "params": {}
+  },
+  {
+    "trait": "total_chl",
+    "model": "Mean_R",
+    "fold": 3,
+    "params": {}
+  },
+  {
+    "trait": "total_chl",
+    "model": "Mean_R",
+    "fold": 4,
+    "params": {}
+  },
+  {
+    "trait": "total_chl",
+    "model": "Mean_R",
+    "fold": 5,
+    "params": {}
+  },
+  {
+    "trait": "total_chl",
+    "model": "Mean_R",
+    "fold": "final",
+    "params": {}
+  },
+  {
+    "trait": "total_chl",
+    "model": "Mean_G",
+    "fold": 1,
+    "params": {}
+  },
+  {
+    "trait": "total_chl",
+    "model": "Mean_G",
+    "fold": 2,
+    "params": {}
+  },
+  {
+    "trait": "total_chl",
+    "model": "Mean_G",
+    "fold": 3,
+    "params": {}
+  },
+  {
+    "trait": "total_chl",
+    "model": "Mean_G",
+    "fold": 4,
+    "params": {}
+  },
+  {
+    "trait": "total_chl",
+    "model": "Mean_G",
+    "fold": 5,
+    "params": {}
+  },
+  {
+    "trait": "total_chl",
+    "model": "Mean_G",
+    "fold": "final",
+    "params": {}
+  },
+  {
+    "trait": "total_chl",
+    "model": "Mean_B",
+    "fold": 1,
+    "params": {}
+  },
+  {
+    "trait": "total_chl",
+    "model": "Mean_B",
+    "fold": 2,
+    "params": {}
+  },
+  {
+    "trait": "total_chl",
+    "model": "Mean_B",
+    "fold": 3,
+    "params": {}
+  },
+  {
+    "trait": "total_chl",
+    "model": "Mean_B",
+    "fold": 4,
+    "params": {}
+  },
+  {
+    "trait": "total_chl",
+    "model": "Mean_B",
+    "fold": 5,
+    "params": {}
+  },
+  {
+    "trait": "total_chl",
+    "model": "Mean_B",
+    "fold": "final",
+    "params": {}
+  },
+  {
+    "trait": "total_chl",
+    "model": "G_over_R",
+    "fold": 1,
+    "params": {}
+  },
+  {
+    "trait": "total_chl",
+    "model": "G_over_R",
+    "fold": 2,
+    "params": {}
+  },
+  {
+    "trait": "total_chl",
+    "model": "G_over_R",
+    "fold": 3,
+    "params": {}
+  },
+  {
+    "trait": "total_chl",
+    "model": "G_over_R",
+    "fold": 4,
+    "params": {}
+  },
+  {
+    "trait": "total_chl",
+    "model": "G_over_R",
+    "fold": 5,
+    "params": {}
+  },
+  {
+    "trait": "total_chl",
+    "model": "G_over_R",
+    "fold": "final",
+    "params": {}
+  },
+  {
+    "trait": "total_chl",
+    "model": "G_over_B",
+    "fold": 1,
+    "params": {}
+  },
+  {
+    "trait": "total_chl",
+    "model": "G_over_B",
+    "fold": 2,
+    "params": {}
+  },
+  {
+    "trait": "total_chl",
+    "model": "G_over_B",
+    "fold": 3,
+    "params": {}
+  },
+  {
+    "trait": "total_chl",
+    "model": "G_over_B",
+    "fold": 4,
+    "params": {}
+  },
+  {
+    "trait": "total_chl",
+    "model": "G_over_B",
+    "fold": 5,
+    "params": {}
+  },
+  {
+    "trait": "total_chl",
+    "model": "G_over_B",
+    "fold": "final",
+    "params": {}
+  },
+  {
+    "trait": "total_chl",
+    "model": "Normalized_G",
+    "fold": 1,
+    "params": {}
+  },
+  {
+    "trait": "total_chl",
+    "model": "Normalized_G",
+    "fold": 2,
+    "params": {}
+  },
+  {
+    "trait": "total_chl",
+    "model": "Normalized_G",
+    "fold": 3,
+    "params": {}
+  },
+  {
+    "trait": "total_chl",
+    "model": "Normalized_G",
+    "fold": 4,
+    "params": {}
+  },
+  {
+    "trait": "total_chl",
+    "model": "Normalized_G",
+    "fold": 5,
+    "params": {}
+  },
+  {
+    "trait": "total_chl",
+    "model": "Normalized_G",
+    "fold": "final",
+    "params": {}
+  },
+  {
+    "trait": "total_chl",
+    "model": "NGRDI",
+    "fold": 1,
+    "params": {}
+  },
+  {
+    "trait": "total_chl",
+    "model": "NGRDI",
+    "fold": 2,
+    "params": {}
+  },
+  {
+    "trait": "total_chl",
+    "model": "NGRDI",
+    "fold": 3,
+    "params": {}
+  },
+  {
+    "trait": "total_chl",
+    "model": "NGRDI",
+    "fold": 4,
+    "params": {}
+  },
+  {
+    "trait": "total_chl",
+    "model": "NGRDI",
+    "fold": 5,
+    "params": {}
+  },
+  {
+    "trait": "total_chl",
+    "model": "NGRDI",
+    "fold": "final",
+    "params": {}
+  },
+  {
+    "trait": "total_chl",
+    "model": "NGBDI",
+    "fold": 1,
+    "params": {}
+  },
+  {
+    "trait": "total_chl",
+    "model": "NGBDI",
+    "fold": 2,
+    "params": {}
+  },
+  {
+    "trait": "total_chl",
+    "model": "NGBDI",
+    "fold": 3,
+    "params": {}
+  },
+  {
+    "trait": "total_chl",
+    "model": "NGBDI",
+    "fold": 4,
+    "params": {}
+  },
+  {
+    "trait": "total_chl",
+    "model": "NGBDI",
+    "fold": 5,
+    "params": {}
+  },
+  {
+    "trait": "total_chl",
+    "model": "NGBDI",
+    "fold": "final",
+    "params": {}
+  },
+  {
+    "trait": "total_chl",
+    "model": "GLI",
+    "fold": 1,
+    "params": {}
+  },
+  {
+    "trait": "total_chl",
+    "model": "GLI",
+    "fold": 2,
+    "params": {}
+  },
+  {
+    "trait": "total_chl",
+    "model": "GLI",
+    "fold": 3,
+    "params": {}
+  },
+  {
+    "trait": "total_chl",
+    "model": "GLI",
+    "fold": 4,
+    "params": {}
+  },
+  {
+    "trait": "total_chl",
+    "model": "GLI",
+    "fold": 5,
+    "params": {}
+  },
+  {
+    "trait": "total_chl",
+    "model": "GLI",
+    "fold": "final",
+    "params": {}
+  },
+  {
+    "trait": "total_chl",
+    "model": "ExG",
+    "fold": 1,
+    "params": {}
+  },
+  {
+    "trait": "total_chl",
+    "model": "ExG",
+    "fold": 2,
+    "params": {}
+  },
+  {
+    "trait": "total_chl",
+    "model": "ExG",
+    "fold": 3,
+    "params": {}
+  },
+  {
+    "trait": "total_chl",
+    "model": "ExG",
+    "fold": 4,
+    "params": {}
+  },
+  {
+    "trait": "total_chl",
+    "model": "ExG",
+    "fold": 5,
+    "params": {}
+  },
+  {
+    "trait": "total_chl",
+    "model": "ExG",
+    "fold": "final",
+    "params": {}
+  },
+  {
+    "trait": "total_chl",
+    "model": "VARI",
+    "fold": 1,
+    "params": {}
+  },
+  {
+    "trait": "total_chl",
+    "model": "VARI",
+    "fold": 2,
+    "params": {}
+  },
+  {
+    "trait": "total_chl",
+    "model": "VARI",
+    "fold": 3,
+    "params": {}
+  },
+  {
+    "trait": "total_chl",
+    "model": "VARI",
+    "fold": 4,
+    "params": {}
+  },
+  {
+    "trait": "total_chl",
+    "model": "VARI",
+    "fold": 5,
+    "params": {}
+  },
+  {
+    "trait": "total_chl",
+    "model": "VARI",
+    "fold": "final",
+    "params": {}
+  },
+  {
+    "trait": "total_chl",
+    "model": "RGB_OLS",
+    "fold": 1,
+    "params": {}
+  },
+  {
+    "trait": "total_chl",
+    "model": "RGB_OLS",
+    "fold": 2,
+    "params": {}
+  },
+  {
+    "trait": "total_chl",
+    "model": "RGB_OLS",
+    "fold": 3,
+    "params": {}
+  },
+  {
+    "trait": "total_chl",
+    "model": "RGB_OLS",
+    "fold": 4,
+    "params": {}
+  },
+  {
+    "trait": "total_chl",
+    "model": "RGB_OLS",
+    "fold": 5,
+    "params": {}
+  },
+  {
+    "trait": "total_chl",
+    "model": "RGB_OLS",
+    "fold": "final",
+    "params": {}
+  },
+  {
+    "trait": "total_chl",
+    "model": "RGB_Quadratic",
+    "fold": 1,
+    "params": {
+      "ridge__alpha": 1
+    }
+  },
+  {
+    "trait": "total_chl",
+    "model": "RGB_Quadratic",
+    "fold": 2,
+    "params": {
+      "ridge__alpha": 0.1
+    }
+  },
+  {
+    "trait": "total_chl",
+    "model": "RGB_Quadratic",
+    "fold": 3,
+    "params": {
+      "ridge__alpha": 1
+    }
+  },
+  {
+    "trait": "total_chl",
+    "model": "RGB_Quadratic",
+    "fold": 4,
+    "params": {
+      "ridge__alpha": 0.1
+    }
+  },
+  {
+    "trait": "total_chl",
+    "model": "RGB_Quadratic",
+    "fold": 5,
+    "params": {
+      "ridge__alpha": 0.1
+    }
+  },
+  {
+    "trait": "total_chl",
+    "model": "RGB_Quadratic",
+    "fold": "final",
+    "params": {
+      "ridge__alpha": 0.1
+    }
+  },
+  {
+    "trait": "chl_a",
+    "model": "Mean_R",
+    "fold": 1,
+    "params": {}
+  },
+  {
+    "trait": "chl_a",
+    "model": "Mean_R",
+    "fold": 2,
+    "params": {}
+  },
+  {
+    "trait": "chl_a",
+    "model": "Mean_R",
+    "fold": 3,
+    "params": {}
+  },
+  {
+    "trait": "chl_a",
+    "model": "Mean_R",
+    "fold": 4,
+    "params": {}
+  },
+  {
+    "trait": "chl_a",
+    "model": "Mean_R",
+    "fold": 5,
+    "params": {}
+  },
+  {
+    "trait": "chl_a",
+    "model": "Mean_R",
+    "fold": "final",
+    "params": {}
+  },
+  {
+    "trait": "chl_a",
+    "model": "Mean_G",
+    "fold": 1,
+    "params": {}
+  },
+  {
+    "trait": "chl_a",
+    "model": "Mean_G",
+    "fold": 2,
+    "params": {}
+  },
+  {
+    "trait": "chl_a",
+    "model": "Mean_G",
+    "fold": 3,
+    "params": {}
+  },
+  {
+    "trait": "chl_a",
+    "model": "Mean_G",
+    "fold": 4,
+    "params": {}
+  },
+  {
+    "trait": "chl_a",
+    "model": "Mean_G",
+    "fold": 5,
+    "params": {}
+  },
+  {
+    "trait": "chl_a",
+    "model": "Mean_G",
+    "fold": "final",
+    "params": {}
+  },
+  {
+    "trait": "chl_a",
+    "model": "Mean_B",
+    "fold": 1,
+    "params": {}
+  },
+  {
+    "trait": "chl_a",
+    "model": "Mean_B",
+    "fold": 2,
+    "params": {}
+  },
+  {
+    "trait": "chl_a",
+    "model": "Mean_B",
+    "fold": 3,
+    "params": {}
+  },
+  {
+    "trait": "chl_a",
+    "model": "Mean_B",
+    "fold": 4,
+    "params": {}
+  },
+  {
+    "trait": "chl_a",
+    "model": "Mean_B",
+    "fold": 5,
+    "params": {}
+  },
+  {
+    "trait": "chl_a",
+    "model": "Mean_B",
+    "fold": "final",
+    "params": {}
+  },
+  {
+    "trait": "chl_a",
+    "model": "G_over_R",
+    "fold": 1,
+    "params": {}
+  },
+  {
+    "trait": "chl_a",
+    "model": "G_over_R",
+    "fold": 2,
+    "params": {}
+  },
+  {
+    "trait": "chl_a",
+    "model": "G_over_R",
+    "fold": 3,
+    "params": {}
+  },
+  {
+    "trait": "chl_a",
+    "model": "G_over_R",
+    "fold": 4,
+    "params": {}
+  },
+  {
+    "trait": "chl_a",
+    "model": "G_over_R",
+    "fold": 5,
+    "params": {}
+  },
+  {
+    "trait": "chl_a",
+    "model": "G_over_R",
+    "fold": "final",
+    "params": {}
+  },
+  {
+    "trait": "chl_a",
+    "model": "G_over_B",
+    "fold": 1,
+    "params": {}
+  },
+  {
+    "trait": "chl_a",
+    "model": "G_over_B",
+    "fold": 2,
+    "params": {}
+  },
+  {
+    "trait": "chl_a",
+    "model": "G_over_B",
+    "fold": 3,
+    "params": {}
+  },
+  {
+    "trait": "chl_a",
+    "model": "G_over_B",
+    "fold": 4,
+    "params": {}
+  },
+  {
+    "trait": "chl_a",
+    "model": "G_over_B",
+    "fold": 5,
+    "params": {}
+  },
+  {
+    "trait": "chl_a",
+    "model": "G_over_B",
+    "fold": "final",
+    "params": {}
+  },
+  {
+    "trait": "chl_a",
+    "model": "Normalized_G",
+    "fold": 1,
+    "params": {}
+  },
+  {
+    "trait": "chl_a",
+    "model": "Normalized_G",
+    "fold": 2,
+    "params": {}
+  },
+  {
+    "trait": "chl_a",
+    "model": "Normalized_G",
+    "fold": 3,
+    "params": {}
+  },
+  {
+    "trait": "chl_a",
+    "model": "Normalized_G",
+    "fold": 4,
+    "params": {}
+  },
+  {
+    "trait": "chl_a",
+    "model": "Normalized_G",
+    "fold": 5,
+    "params": {}
+  },
+  {
+    "trait": "chl_a",
+    "model": "Normalized_G",
+    "fold": "final",
+    "params": {}
+  },
+  {
+    "trait": "chl_a",
+    "model": "NGRDI",
+    "fold": 1,
+    "params": {}
+  },
+  {
+    "trait": "chl_a",
+    "model": "NGRDI",
+    "fold": 2,
+    "params": {}
+  },
+  {
+    "trait": "chl_a",
+    "model": "NGRDI",
+    "fold": 3,
+    "params": {}
+  },
+  {
+    "trait": "chl_a",
+    "model": "NGRDI",
+    "fold": 4,
+    "params": {}
+  },
+  {
+    "trait": "chl_a",
+    "model": "NGRDI",
+    "fold": 5,
+    "params": {}
+  },
+  {
+    "trait": "chl_a",
+    "model": "NGRDI",
+    "fold": "final",
+    "params": {}
+  },
+  {
+    "trait": "chl_a",
+    "model": "NGBDI",
+    "fold": 1,
+    "params": {}
+  },
+  {
+    "trait": "chl_a",
+    "model": "NGBDI",
+    "fold": 2,
+    "params": {}
+  },
+  {
+    "trait": "chl_a",
+    "model": "NGBDI",
+    "fold": 3,
+    "params": {}
+  },
+  {
+    "trait": "chl_a",
+    "model": "NGBDI",
+    "fold": 4,
+    "params": {}
+  },
+  {
+    "trait": "chl_a",
+    "model": "NGBDI",
+    "fold": 5,
+    "params": {}
+  },
+  {
+    "trait": "chl_a",
+    "model": "NGBDI",
+    "fold": "final",
+    "params": {}
+  },
+  {
+    "trait": "chl_a",
+    "model": "GLI",
+    "fold": 1,
+    "params": {}
+  },
+  {
+    "trait": "chl_a",
+    "model": "GLI",
+    "fold": 2,
+    "params": {}
+  },
+  {
+    "trait": "chl_a",
+    "model": "GLI",
+    "fold": 3,
+    "params": {}
+  },
+  {
+    "trait": "chl_a",
+    "model": "GLI",
+    "fold": 4,
+    "params": {}
+  },
+  {
+    "trait": "chl_a",
+    "model": "GLI",
+    "fold": 5,
+    "params": {}
+  },
+  {
+    "trait": "chl_a",
+    "model": "GLI",
+    "fold": "final",
+    "params": {}
+  },
+  {
+    "trait": "chl_a",
+    "model": "ExG",
+    "fold": 1,
+    "params": {}
+  },
+  {
+    "trait": "chl_a",
+    "model": "ExG",
+    "fold": 2,
+    "params": {}
+  },
+  {
+    "trait": "chl_a",
+    "model": "ExG",
+    "fold": 3,
+    "params": {}
+  },
+  {
+    "trait": "chl_a",
+    "model": "ExG",
+    "fold": 4,
+    "params": {}
+  },
+  {
+    "trait": "chl_a",
+    "model": "ExG",
+    "fold": 5,
+    "params": {}
+  },
+  {
+    "trait": "chl_a",
+    "model": "ExG",
+    "fold": "final",
+    "params": {}
+  },
+  {
+    "trait": "chl_a",
+    "model": "VARI",
+    "fold": 1,
+    "params": {}
+  },
+  {
+    "trait": "chl_a",
+    "model": "VARI",
+    "fold": 2,
+    "params": {}
+  },
+  {
+    "trait": "chl_a",
+    "model": "VARI",
+    "fold": 3,
+    "params": {}
+  },
+  {
+    "trait": "chl_a",
+    "model": "VARI",
+    "fold": 4,
+    "params": {}
+  },
+  {
+    "trait": "chl_a",
+    "model": "VARI",
+    "fold": 5,
+    "params": {}
+  },
+  {
+    "trait": "chl_a",
+    "model": "VARI",
+    "fold": "final",
+    "params": {}
+  },
+  {
+    "trait": "chl_a",
+    "model": "RGB_OLS",
+    "fold": 1,
+    "params": {}
+  },
+  {
+    "trait": "chl_a",
+    "model": "RGB_OLS",
+    "fold": 2,
+    "params": {}
+  },
+  {
+    "trait": "chl_a",
+    "model": "RGB_OLS",
+    "fold": 3,
+    "params": {}
+  },
+  {
+    "trait": "chl_a",
+    "model": "RGB_OLS",
+    "fold": 4,
+    "params": {}
+  },
+  {
+    "trait": "chl_a",
+    "model": "RGB_OLS",
+    "fold": 5,
+    "params": {}
+  },
+  {
+    "trait": "chl_a",
+    "model": "RGB_OLS",
+    "fold": "final",
+    "params": {}
+  },
+  {
+    "trait": "chl_a",
+    "model": "RGB_Quadratic",
+    "fold": 1,
+    "params": {
+      "ridge__alpha": 1
+    }
+  },
+  {
+    "trait": "chl_a",
+    "model": "RGB_Quadratic",
+    "fold": 2,
+    "params": {
+      "ridge__alpha": 0.01
+    }
+  },
+  {
+    "trait": "chl_a",
+    "model": "RGB_Quadratic",
+    "fold": 3,
+    "params": {
+      "ridge__alpha": 0.01
+    }
+  },
+  {
+    "trait": "chl_a",
+    "model": "RGB_Quadratic",
+    "fold": 4,
+    "params": {
+      "ridge__alpha": 0.01
+    }
+  },
+  {
+    "trait": "chl_a",
+    "model": "RGB_Quadratic",
+    "fold": 5,
+    "params": {
+      "ridge__alpha": 0.1
+    }
+  },
+  {
+    "trait": "chl_a",
+    "model": "RGB_Quadratic",
+    "fold": "final",
+    "params": {
+      "ridge__alpha": 0.1
+    }
+  },
+  {
+    "trait": "chl_b",
+    "model": "Mean_R",
+    "fold": 1,
+    "params": {}
+  },
+  {
+    "trait": "chl_b",
+    "model": "Mean_R",
+    "fold": 2,
+    "params": {}
+  },
+  {
+    "trait": "chl_b",
+    "model": "Mean_R",
+    "fold": 3,
+    "params": {}
+  },
+  {
+    "trait": "chl_b",
+    "model": "Mean_R",
+    "fold": 4,
+    "params": {}
+  },
+  {
+    "trait": "chl_b",
+    "model": "Mean_R",
+    "fold": 5,
+    "params": {}
+  },
+  {
+    "trait": "chl_b",
+    "model": "Mean_R",
+    "fold": "final",
+    "params": {}
+  },
+  {
+    "trait": "chl_b",
+    "model": "Mean_G",
+    "fold": 1,
+    "params": {}
+  },
+  {
+    "trait": "chl_b",
+    "model": "Mean_G",
+    "fold": 2,
+    "params": {}
+  },
+  {
+    "trait": "chl_b",
+    "model": "Mean_G",
+    "fold": 3,
+    "params": {}
+  },
+  {
+    "trait": "chl_b",
+    "model": "Mean_G",
+    "fold": 4,
+    "params": {}
+  },
+  {
+    "trait": "chl_b",
+    "model": "Mean_G",
+    "fold": 5,
+    "params": {}
+  },
+  {
+    "trait": "chl_b",
+    "model": "Mean_G",
+    "fold": "final",
+    "params": {}
+  },
+  {
+    "trait": "chl_b",
+    "model": "Mean_B",
+    "fold": 1,
+    "params": {}
+  },
+  {
+    "trait": "chl_b",
+    "model": "Mean_B",
+    "fold": 2,
+    "params": {}
+  },
+  {
+    "trait": "chl_b",
+    "model": "Mean_B",
+    "fold": 3,
+    "params": {}
+  },
+  {
+    "trait": "chl_b",
+    "model": "Mean_B",
+    "fold": 4,
+    "params": {}
+  },
+  {
+    "trait": "chl_b",
+    "model": "Mean_B",
+    "fold": 5,
+    "params": {}
+  },
+  {
+    "trait": "chl_b",
+    "model": "Mean_B",
+    "fold": "final",
+    "params": {}
+  },
+  {
+    "trait": "chl_b",
+    "model": "G_over_R",
+    "fold": 1,
+    "params": {}
+  },
+  {
+    "trait": "chl_b",
+    "model": "G_over_R",
+    "fold": 2,
+    "params": {}
+  },
+  {
+    "trait": "chl_b",
+    "model": "G_over_R",
+    "fold": 3,
+    "params": {}
+  },
+  {
+    "trait": "chl_b",
+    "model": "G_over_R",
+    "fold": 4,
+    "params": {}
+  },
+  {
+    "trait": "chl_b",
+    "model": "G_over_R",
+    "fold": 5,
+    "params": {}
+  },
+  {
+    "trait": "chl_b",
+    "model": "G_over_R",
+    "fold": "final",
+    "params": {}
+  },
+  {
+    "trait": "chl_b",
+    "model": "G_over_B",
+    "fold": 1,
+    "params": {}
+  },
+  {
+    "trait": "chl_b",
+    "model": "G_over_B",
+    "fold": 2,
+    "params": {}
+  },
+  {
+    "trait": "chl_b",
+    "model": "G_over_B",
+    "fold": 3,
+    "params": {}
+  },
+  {
+    "trait": "chl_b",
+    "model": "G_over_B",
+    "fold": 4,
+    "params": {}
+  },
+  {
+    "trait": "chl_b",
+    "model": "G_over_B",
+    "fold": 5,
+    "params": {}
+  },
+  {
+    "trait": "chl_b",
+    "model": "G_over_B",
+    "fold": "final",
+    "params": {}
+  },
+  {
+    "trait": "chl_b",
+    "model": "Normalized_G",
+    "fold": 1,
+    "params": {}
+  },
+  {
+    "trait": "chl_b",
+    "model": "Normalized_G",
+    "fold": 2,
+    "params": {}
+  },
+  {
+    "trait": "chl_b",
+    "model": "Normalized_G",
+    "fold": 3,
+    "params": {}
+  },
+  {
+    "trait": "chl_b",
+    "model": "Normalized_G",
+    "fold": 4,
+    "params": {}
+  },
+  {
+    "trait": "chl_b",
+    "model": "Normalized_G",
+    "fold": 5,
+    "params": {}
+  },
+  {
+    "trait": "chl_b",
+    "model": "Normalized_G",
+    "fold": "final",
+    "params": {}
+  },
+  {
+    "trait": "chl_b",
+    "model": "NGRDI",
+    "fold": 1,
+    "params": {}
+  },
+  {
+    "trait": "chl_b",
+    "model": "NGRDI",
+    "fold": 2,
+    "params": {}
+  },
+  {
+    "trait": "chl_b",
+    "model": "NGRDI",
+    "fold": 3,
+    "params": {}
+  },
+  {
+    "trait": "chl_b",
+    "model": "NGRDI",
+    "fold": 4,
+    "params": {}
+  },
+  {
+    "trait": "chl_b",
+    "model": "NGRDI",
+    "fold": 5,
+    "params": {}
+  },
+  {
+    "trait": "chl_b",
+    "model": "NGRDI",
+    "fold": "final",
+    "params": {}
+  },
+  {
+    "trait": "chl_b",
+    "model": "NGBDI",
+    "fold": 1,
+    "params": {}
+  },
+  {
+    "trait": "chl_b",
+    "model": "NGBDI",
+    "fold": 2,
+    "params": {}
+  },
+  {
+    "trait": "chl_b",
+    "model": "NGBDI",
+    "fold": 3,
+    "params": {}
+  },
+  {
+    "trait": "chl_b",
+    "model": "NGBDI",
+    "fold": 4,
+    "params": {}
+  },
+  {
+    "trait": "chl_b",
+    "model": "NGBDI",
+    "fold": 5,
+    "params": {}
+  },
+  {
+    "trait": "chl_b",
+    "model": "NGBDI",
+    "fold": "final",
+    "params": {}
+  },
+  {
+    "trait": "chl_b",
+    "model": "GLI",
+    "fold": 1,
+    "params": {}
+  },
+  {
+    "trait": "chl_b",
+    "model": "GLI",
+    "fold": 2,
+    "params": {}
+  },
+  {
+    "trait": "chl_b",
+    "model": "GLI",
+    "fold": 3,
+    "params": {}
+  },
+  {
+    "trait": "chl_b",
+    "model": "GLI",
+    "fold": 4,
+    "params": {}
+  },
+  {
+    "trait": "chl_b",
+    "model": "GLI",
+    "fold": 5,
+    "params": {}
+  },
+  {
+    "trait": "chl_b",
+    "model": "GLI",
+    "fold": "final",
+    "params": {}
+  },
+  {
+    "trait": "chl_b",
+    "model": "ExG",
+    "fold": 1,
+    "params": {}
+  },
+  {
+    "trait": "chl_b",
+    "model": "ExG",
+    "fold": 2,
+    "params": {}
+  },
+  {
+    "trait": "chl_b",
+    "model": "ExG",
+    "fold": 3,
+    "params": {}
+  },
+  {
+    "trait": "chl_b",
+    "model": "ExG",
+    "fold": 4,
+    "params": {}
+  },
+  {
+    "trait": "chl_b",
+    "model": "ExG",
+    "fold": 5,
+    "params": {}
+  },
+  {
+    "trait": "chl_b",
+    "model": "ExG",
+    "fold": "final",
+    "params": {}
+  },
+  {
+    "trait": "chl_b",
+    "model": "VARI",
+    "fold": 1,
+    "params": {}
+  },
+  {
+    "trait": "chl_b",
+    "model": "VARI",
+    "fold": 2,
+    "params": {}
+  },
+  {
+    "trait": "chl_b",
+    "model": "VARI",
+    "fold": 3,
+    "params": {}
+  },
+  {
+    "trait": "chl_b",
+    "model": "VARI",
+    "fold": 4,
+    "params": {}
+  },
+  {
+    "trait": "chl_b",
+    "model": "VARI",
+    "fold": 5,
+    "params": {}
+  },
+  {
+    "trait": "chl_b",
+    "model": "VARI",
+    "fold": "final",
+    "params": {}
+  },
+  {
+    "trait": "chl_b",
+    "model": "RGB_OLS",
+    "fold": 1,
+    "params": {}
+  },
+  {
+    "trait": "chl_b",
+    "model": "RGB_OLS",
+    "fold": 2,
+    "params": {}
+  },
+  {
+    "trait": "chl_b",
+    "model": "RGB_OLS",
+    "fold": 3,
+    "params": {}
+  },
+  {
+    "trait": "chl_b",
+    "model": "RGB_OLS",
+    "fold": 4,
+    "params": {}
+  },
+  {
+    "trait": "chl_b",
+    "model": "RGB_OLS",
+    "fold": 5,
+    "params": {}
+  },
+  {
+    "trait": "chl_b",
+    "model": "RGB_OLS",
+    "fold": "final",
+    "params": {}
+  },
+  {
+    "trait": "chl_b",
+    "model": "RGB_Quadratic",
+    "fold": 1,
+    "params": {
+      "ridge__alpha": 10
+    }
+  },
+  {
+    "trait": "chl_b",
+    "model": "RGB_Quadratic",
+    "fold": 2,
+    "params": {
+      "ridge__alpha": 1
+    }
+  },
+  {
+    "trait": "chl_b",
+    "model": "RGB_Quadratic",
+    "fold": 3,
+    "params": {
+      "ridge__alpha": 1
+    }
+  },
+  {
+    "trait": "chl_b",
+    "model": "RGB_Quadratic",
+    "fold": 4,
+    "params": {
+      "ridge__alpha": 1
+    }
+  },
+  {
+    "trait": "chl_b",
+    "model": "RGB_Quadratic",
+    "fold": 5,
+    "params": {
+      "ridge__alpha": 1
+    }
+  },
+  {
+    "trait": "chl_b",
+    "model": "RGB_Quadratic",
+    "fold": "final",
+    "params": {
+      "ridge__alpha": 1
+    }
+  },
+  {
+    "trait": "carot",
+    "model": "Mean_R",
+    "fold": 1,
+    "params": {}
+  },
+  {
+    "trait": "carot",
+    "model": "Mean_R",
+    "fold": 2,
+    "params": {}
+  },
+  {
+    "trait": "carot",
+    "model": "Mean_R",
+    "fold": 3,
+    "params": {}
+  },
+  {
+    "trait": "carot",
+    "model": "Mean_R",
+    "fold": 4,
+    "params": {}
+  },
+  {
+    "trait": "carot",
+    "model": "Mean_R",
+    "fold": 5,
+    "params": {}
+  },
+  {
+    "trait": "carot",
+    "model": "Mean_R",
+    "fold": "final",
+    "params": {}
+  },
+  {
+    "trait": "carot",
+    "model": "Mean_G",
+    "fold": 1,
+    "params": {}
+  },
+  {
+    "trait": "carot",
+    "model": "Mean_G",
+    "fold": 2,
+    "params": {}
+  },
+  {
+    "trait": "carot",
+    "model": "Mean_G",
+    "fold": 3,
+    "params": {}
+  },
+  {
+    "trait": "carot",
+    "model": "Mean_G",
+    "fold": 4,
+    "params": {}
+  },
+  {
+    "trait": "carot",
+    "model": "Mean_G",
+    "fold": 5,
+    "params": {}
+  },
+  {
+    "trait": "carot",
+    "model": "Mean_G",
+    "fold": "final",
+    "params": {}
+  },
+  {
+    "trait": "carot",
+    "model": "Mean_B",
+    "fold": 1,
+    "params": {}
+  },
+  {
+    "trait": "carot",
+    "model": "Mean_B",
+    "fold": 2,
+    "params": {}
+  },
+  {
+    "trait": "carot",
+    "model": "Mean_B",
+    "fold": 3,
+    "params": {}
+  },
+  {
+    "trait": "carot",
+    "model": "Mean_B",
+    "fold": 4,
+    "params": {}
+  },
+  {
+    "trait": "carot",
+    "model": "Mean_B",
+    "fold": 5,
+    "params": {}
+  },
+  {
+    "trait": "carot",
+    "model": "Mean_B",
+    "fold": "final",
+    "params": {}
+  },
+  {
+    "trait": "carot",
+    "model": "G_over_R",
+    "fold": 1,
+    "params": {}
+  },
+  {
+    "trait": "carot",
+    "model": "G_over_R",
+    "fold": 2,
+    "params": {}
+  },
+  {
+    "trait": "carot",
+    "model": "G_over_R",
+    "fold": 3,
+    "params": {}
+  },
+  {
+    "trait": "carot",
+    "model": "G_over_R",
+    "fold": 4,
+    "params": {}
+  },
+  {
+    "trait": "carot",
+    "model": "G_over_R",
+    "fold": 5,
+    "params": {}
+  },
+  {
+    "trait": "carot",
+    "model": "G_over_R",
+    "fold": "final",
+    "params": {}
+  },
+  {
+    "trait": "carot",
+    "model": "G_over_B",
+    "fold": 1,
+    "params": {}
+  },
+  {
+    "trait": "carot",
+    "model": "G_over_B",
+    "fold": 2,
+    "params": {}
+  },
+  {
+    "trait": "carot",
+    "model": "G_over_B",
+    "fold": 3,
+    "params": {}
+  },
+  {
+    "trait": "carot",
+    "model": "G_over_B",
+    "fold": 4,
+    "params": {}
+  },
+  {
+    "trait": "carot",
+    "model": "G_over_B",
+    "fold": 5,
+    "params": {}
+  },
+  {
+    "trait": "carot",
+    "model": "G_over_B",
+    "fold": "final",
+    "params": {}
+  },
+  {
+    "trait": "carot",
+    "model": "Normalized_G",
+    "fold": 1,
+    "params": {}
+  },
+  {
+    "trait": "carot",
+    "model": "Normalized_G",
+    "fold": 2,
+    "params": {}
+  },
+  {
+    "trait": "carot",
+    "model": "Normalized_G",
+    "fold": 3,
+    "params": {}
+  },
+  {
+    "trait": "carot",
+    "model": "Normalized_G",
+    "fold": 4,
+    "params": {}
+  },
+  {
+    "trait": "carot",
+    "model": "Normalized_G",
+    "fold": 5,
+    "params": {}
+  },
+  {
+    "trait": "carot",
+    "model": "Normalized_G",
+    "fold": "final",
+    "params": {}
+  },
+  {
+    "trait": "carot",
+    "model": "NGRDI",
+    "fold": 1,
+    "params": {}
+  },
+  {
+    "trait": "carot",
+    "model": "NGRDI",
+    "fold": 2,
+    "params": {}
+  },
+  {
+    "trait": "carot",
+    "model": "NGRDI",
+    "fold": 3,
+    "params": {}
+  },
+  {
+    "trait": "carot",
+    "model": "NGRDI",
+    "fold": 4,
+    "params": {}
+  },
+  {
+    "trait": "carot",
+    "model": "NGRDI",
+    "fold": 5,
+    "params": {}
+  },
+  {
+    "trait": "carot",
+    "model": "NGRDI",
+    "fold": "final",
+    "params": {}
+  },
+  {
+    "trait": "carot",
+    "model": "NGBDI",
+    "fold": 1,
+    "params": {}
+  },
+  {
+    "trait": "carot",
+    "model": "NGBDI",
+    "fold": 2,
+    "params": {}
+  },
+  {
+    "trait": "carot",
+    "model": "NGBDI",
+    "fold": 3,
+    "params": {}
+  },
+  {
+    "trait": "carot",
+    "model": "NGBDI",
+    "fold": 4,
+    "params": {}
+  },
+  {
+    "trait": "carot",
+    "model": "NGBDI",
+    "fold": 5,
+    "params": {}
+  },
+  {
+    "trait": "carot",
+    "model": "NGBDI",
+    "fold": "final",
+    "params": {}
+  },
+  {
+    "trait": "carot",
+    "model": "GLI",
+    "fold": 1,
+    "params": {}
+  },
+  {
+    "trait": "carot",
+    "model": "GLI",
+    "fold": 2,
+    "params": {}
+  },
+  {
+    "trait": "carot",
+    "model": "GLI",
+    "fold": 3,
+    "params": {}
+  },
+  {
+    "trait": "carot",
+    "model": "GLI",
+    "fold": 4,
+    "params": {}
+  },
+  {
+    "trait": "carot",
+    "model": "GLI",
+    "fold": 5,
+    "params": {}
+  },
+  {
+    "trait": "carot",
+    "model": "GLI",
+    "fold": "final",
+    "params": {}
+  },
+  {
+    "trait": "carot",
+    "model": "ExG",
+    "fold": 1,
+    "params": {}
+  },
+  {
+    "trait": "carot",
+    "model": "ExG",
+    "fold": 2,
+    "params": {}
+  },
+  {
+    "trait": "carot",
+    "model": "ExG",
+    "fold": 3,
+    "params": {}
+  },
+  {
+    "trait": "carot",
+    "model": "ExG",
+    "fold": 4,
+    "params": {}
+  },
+  {
+    "trait": "carot",
+    "model": "ExG",
+    "fold": 5,
+    "params": {}
+  },
+  {
+    "trait": "carot",
+    "model": "ExG",
+    "fold": "final",
+    "params": {}
+  },
+  {
+    "trait": "carot",
+    "model": "VARI",
+    "fold": 1,
+    "params": {}
+  },
+  {
+    "trait": "carot",
+    "model": "VARI",
+    "fold": 2,
+    "params": {}
+  },
+  {
+    "trait": "carot",
+    "model": "VARI",
+    "fold": 3,
+    "params": {}
+  },
+  {
+    "trait": "carot",
+    "model": "VARI",
+    "fold": 4,
+    "params": {}
+  },
+  {
+    "trait": "carot",
+    "model": "VARI",
+    "fold": 5,
+    "params": {}
+  },
+  {
+    "trait": "carot",
+    "model": "VARI",
+    "fold": "final",
+    "params": {}
+  },
+  {
+    "trait": "carot",
+    "model": "RGB_OLS",
+    "fold": 1,
+    "params": {}
+  },
+  {
+    "trait": "carot",
+    "model": "RGB_OLS",
+    "fold": 2,
+    "params": {}
+  },
+  {
+    "trait": "carot",
+    "model": "RGB_OLS",
+    "fold": 3,
+    "params": {}
+  },
+  {
+    "trait": "carot",
+    "model": "RGB_OLS",
+    "fold": 4,
+    "params": {}
+  },
+  {
+    "trait": "carot",
+    "model": "RGB_OLS",
+    "fold": 5,
+    "params": {}
+  },
+  {
+    "trait": "carot",
+    "model": "RGB_OLS",
+    "fold": "final",
+    "params": {}
+  },
+  {
+    "trait": "carot",
+    "model": "RGB_Quadratic",
+    "fold": 1,
+    "params": {
+      "ridge__alpha": 10
+    }
+  },
+  {
+    "trait": "carot",
+    "model": "RGB_Quadratic",
+    "fold": 2,
+    "params": {
+      "ridge__alpha": 1
+    }
+  },
+  {
+    "trait": "carot",
+    "model": "RGB_Quadratic",
+    "fold": 3,
+    "params": {
+      "ridge__alpha": 1
+    }
+  },
+  {
+    "trait": "carot",
+    "model": "RGB_Quadratic",
+    "fold": 4,
+    "params": {
+      "ridge__alpha": 1
+    }
+  },
+  {
+    "trait": "carot",
+    "model": "RGB_Quadratic",
+    "fold": 5,
+    "params": {
+      "ridge__alpha": 1
+    }
+  },
+  {
+    "trait": "carot",
+    "model": "RGB_Quadratic",
+    "fold": "final",
+    "params": {
+      "ridge__alpha": 0.01
+    }
+  },
+  {
+    "trait": "total_carot",
+    "model": "Mean_R",
+    "fold": 1,
+    "params": {}
+  },
+  {
+    "trait": "total_carot",
+    "model": "Mean_R",
+    "fold": 2,
+    "params": {}
+  },
+  {
+    "trait": "total_carot",
+    "model": "Mean_R",
+    "fold": 3,
+    "params": {}
+  },
+  {
+    "trait": "total_carot",
+    "model": "Mean_R",
+    "fold": 4,
+    "params": {}
+  },
+  {
+    "trait": "total_carot",
+    "model": "Mean_R",
+    "fold": 5,
+    "params": {}
+  },
+  {
+    "trait": "total_carot",
+    "model": "Mean_R",
+    "fold": "final",
+    "params": {}
+  },
+  {
+    "trait": "total_carot",
+    "model": "Mean_G",
+    "fold": 1,
+    "params": {}
+  },
+  {
+    "trait": "total_carot",
+    "model": "Mean_G",
+    "fold": 2,
+    "params": {}
+  },
+  {
+    "trait": "total_carot",
+    "model": "Mean_G",
+    "fold": 3,
+    "params": {}
+  },
+  {
+    "trait": "total_carot",
+    "model": "Mean_G",
+    "fold": 4,
+    "params": {}
+  },
+  {
+    "trait": "total_carot",
+    "model": "Mean_G",
+    "fold": 5,
+    "params": {}
+  },
+  {
+    "trait": "total_carot",
+    "model": "Mean_G",
+    "fold": "final",
+    "params": {}
+  },
+  {
+    "trait": "total_carot",
+    "model": "Mean_B",
+    "fold": 1,
+    "params": {}
+  },
+  {
+    "trait": "total_carot",
+    "model": "Mean_B",
+    "fold": 2,
+    "params": {}
+  },
+  {
+    "trait": "total_carot",
+    "model": "Mean_B",
+    "fold": 3,
+    "params": {}
+  },
+  {
+    "trait": "total_carot",
+    "model": "Mean_B",
+    "fold": 4,
+    "params": {}
+  },
+  {
+    "trait": "total_carot",
+    "model": "Mean_B",
+    "fold": 5,
+    "params": {}
+  },
+  {
+    "trait": "total_carot",
+    "model": "Mean_B",
+    "fold": "final",
+    "params": {}
+  },
+  {
+    "trait": "total_carot",
+    "model": "G_over_R",
+    "fold": 1,
+    "params": {}
+  },
+  {
+    "trait": "total_carot",
+    "model": "G_over_R",
+    "fold": 2,
+    "params": {}
+  },
+  {
+    "trait": "total_carot",
+    "model": "G_over_R",
+    "fold": 3,
+    "params": {}
+  },
+  {
+    "trait": "total_carot",
+    "model": "G_over_R",
+    "fold": 4,
+    "params": {}
+  },
+  {
+    "trait": "total_carot",
+    "model": "G_over_R",
+    "fold": 5,
+    "params": {}
+  },
+  {
+    "trait": "total_carot",
+    "model": "G_over_R",
+    "fold": "final",
+    "params": {}
+  },
+  {
+    "trait": "total_carot",
+    "model": "G_over_B",
+    "fold": 1,
+    "params": {}
+  },
+  {
+    "trait": "total_carot",
+    "model": "G_over_B",
+    "fold": 2,
+    "params": {}
+  },
+  {
+    "trait": "total_carot",
+    "model": "G_over_B",
+    "fold": 3,
+    "params": {}
+  },
+  {
+    "trait": "total_carot",
+    "model": "G_over_B",
+    "fold": 4,
+    "params": {}
+  },
+  {
+    "trait": "total_carot",
+    "model": "G_over_B",
+    "fold": 5,
+    "params": {}
+  },
+  {
+    "trait": "total_carot",
+    "model": "G_over_B",
+    "fold": "final",
+    "params": {}
+  },
+  {
+    "trait": "total_carot",
+    "model": "Normalized_G",
+    "fold": 1,
+    "params": {}
+  },
+  {
+    "trait": "total_carot",
+    "model": "Normalized_G",
+    "fold": 2,
+    "params": {}
+  },
+  {
+    "trait": "total_carot",
+    "model": "Normalized_G",
+    "fold": 3,
+    "params": {}
+  },
+  {
+    "trait": "total_carot",
+    "model": "Normalized_G",
+    "fold": 4,
+    "params": {}
+  },
+  {
+    "trait": "total_carot",
+    "model": "Normalized_G",
+    "fold": 5,
+    "params": {}
+  },
+  {
+    "trait": "total_carot",
+    "model": "Normalized_G",
+    "fold": "final",
+    "params": {}
+  },
+  {
+    "trait": "total_carot",
+    "model": "NGRDI",
+    "fold": 1,
+    "params": {}
+  },
+  {
+    "trait": "total_carot",
+    "model": "NGRDI",
+    "fold": 2,
+    "params": {}
+  },
+  {
+    "trait": "total_carot",
+    "model": "NGRDI",
+    "fold": 3,
+    "params": {}
+  },
+  {
+    "trait": "total_carot",
+    "model": "NGRDI",
+    "fold": 4,
+    "params": {}
+  },
+  {
+    "trait": "total_carot",
+    "model": "NGRDI",
+    "fold": 5,
+    "params": {}
+  },
+  {
+    "trait": "total_carot",
+    "model": "NGRDI",
+    "fold": "final",
+    "params": {}
+  },
+  {
+    "trait": "total_carot",
+    "model": "NGBDI",
+    "fold": 1,
+    "params": {}
+  },
+  {
+    "trait": "total_carot",
+    "model": "NGBDI",
+    "fold": 2,
+    "params": {}
+  },
+  {
+    "trait": "total_carot",
+    "model": "NGBDI",
+    "fold": 3,
+    "params": {}
+  },
+  {
+    "trait": "total_carot",
+    "model": "NGBDI",
+    "fold": 4,
+    "params": {}
+  },
+  {
+    "trait": "total_carot",
+    "model": "NGBDI",
+    "fold": 5,
+    "params": {}
+  },
+  {
+    "trait": "total_carot",
+    "model": "NGBDI",
+    "fold": "final",
+    "params": {}
+  },
+  {
+    "trait": "total_carot",
+    "model": "GLI",
+    "fold": 1,
+    "params": {}
+  },
+  {
+    "trait": "total_carot",
+    "model": "GLI",
+    "fold": 2,
+    "params": {}
+  },
+  {
+    "trait": "total_carot",
+    "model": "GLI",
+    "fold": 3,
+    "params": {}
+  },
+  {
+    "trait": "total_carot",
+    "model": "GLI",
+    "fold": 4,
+    "params": {}
+  },
+  {
+    "trait": "total_carot",
+    "model": "GLI",
+    "fold": 5,
+    "params": {}
+  },
+  {
+    "trait": "total_carot",
+    "model": "GLI",
+    "fold": "final",
+    "params": {}
+  },
+  {
+    "trait": "total_carot",
+    "model": "ExG",
+    "fold": 1,
+    "params": {}
+  },
+  {
+    "trait": "total_carot",
+    "model": "ExG",
+    "fold": 2,
+    "params": {}
+  },
+  {
+    "trait": "total_carot",
+    "model": "ExG",
+    "fold": 3,
+    "params": {}
+  },
+  {
+    "trait": "total_carot",
+    "model": "ExG",
+    "fold": 4,
+    "params": {}
+  },
+  {
+    "trait": "total_carot",
+    "model": "ExG",
+    "fold": 5,
+    "params": {}
+  },
+  {
+    "trait": "total_carot",
+    "model": "ExG",
+    "fold": "final",
+    "params": {}
+  },
+  {
+    "trait": "total_carot",
+    "model": "VARI",
+    "fold": 1,
+    "params": {}
+  },
+  {
+    "trait": "total_carot",
+    "model": "VARI",
+    "fold": 2,
+    "params": {}
+  },
+  {
+    "trait": "total_carot",
+    "model": "VARI",
+    "fold": 3,
+    "params": {}
+  },
+  {
+    "trait": "total_carot",
+    "model": "VARI",
+    "fold": 4,
+    "params": {}
+  },
+  {
+    "trait": "total_carot",
+    "model": "VARI",
+    "fold": 5,
+    "params": {}
+  },
+  {
+    "trait": "total_carot",
+    "model": "VARI",
+    "fold": "final",
+    "params": {}
+  },
+  {
+    "trait": "total_carot",
+    "model": "RGB_OLS",
+    "fold": 1,
+    "params": {}
+  },
+  {
+    "trait": "total_carot",
+    "model": "RGB_OLS",
+    "fold": 2,
+    "params": {}
+  },
+  {
+    "trait": "total_carot",
+    "model": "RGB_OLS",
+    "fold": 3,
+    "params": {}
+  },
+  {
+    "trait": "total_carot",
+    "model": "RGB_OLS",
+    "fold": 4,
+    "params": {}
+  },
+  {
+    "trait": "total_carot",
+    "model": "RGB_OLS",
+    "fold": 5,
+    "params": {}
+  },
+  {
+    "trait": "total_carot",
+    "model": "RGB_OLS",
+    "fold": "final",
+    "params": {}
+  },
+  {
+    "trait": "total_carot",
+    "model": "RGB_Quadratic",
+    "fold": 1,
+    "params": {
+      "ridge__alpha": 10
+    }
+  },
+  {
+    "trait": "total_carot",
+    "model": "RGB_Quadratic",
+    "fold": 2,
+    "params": {
+      "ridge__alpha": 10
+    }
+  },
+  {
+    "trait": "total_carot",
+    "model": "RGB_Quadratic",
+    "fold": 3,
+    "params": {
+      "ridge__alpha": 1
+    }
+  },
+  {
+    "trait": "total_carot",
+    "model": "RGB_Quadratic",
+    "fold": 4,
+    "params": {
+      "ridge__alpha": 1
+    }
+  },
+  {
+    "trait": "total_carot",
+    "model": "RGB_Quadratic",
+    "fold": 5,
+    "params": {
+      "ridge__alpha": 1
+    }
+  },
+  {
+    "trait": "total_carot",
+    "model": "RGB_Quadratic",
+    "fold": "final",
+    "params": {
+      "ridge__alpha": 10
+    }
+  },
+  {
+    "trait": "SPAD",
+    "model": "Mean_R",
+    "fold": 1,
+    "params": {}
+  },
+  {
+    "trait": "SPAD",
+    "model": "Mean_R",
+    "fold": 2,
+    "params": {}
+  },
+  {
+    "trait": "SPAD",
+    "model": "Mean_R",
+    "fold": 3,
+    "params": {}
+  },
+  {
+    "trait": "SPAD",
+    "model": "Mean_R",
+    "fold": 4,
+    "params": {}
+  },
+  {
+    "trait": "SPAD",
+    "model": "Mean_R",
+    "fold": 5,
+    "params": {}
+  },
+  {
+    "trait": "SPAD",
+    "model": "Mean_R",
+    "fold": "final",
+    "params": {}
+  },
+  {
+    "trait": "SPAD",
+    "model": "Mean_G",
+    "fold": 1,
+    "params": {}
+  },
+  {
+    "trait": "SPAD",
+    "model": "Mean_G",
+    "fold": 2,
+    "params": {}
+  },
+  {
+    "trait": "SPAD",
+    "model": "Mean_G",
+    "fold": 3,
+    "params": {}
+  },
+  {
+    "trait": "SPAD",
+    "model": "Mean_G",
+    "fold": 4,
+    "params": {}
+  },
+  {
+    "trait": "SPAD",
+    "model": "Mean_G",
+    "fold": 5,
+    "params": {}
+  },
+  {
+    "trait": "SPAD",
+    "model": "Mean_G",
+    "fold": "final",
+    "params": {}
+  },
+  {
+    "trait": "SPAD",
+    "model": "Mean_B",
+    "fold": 1,
+    "params": {}
+  },
+  {
+    "trait": "SPAD",
+    "model": "Mean_B",
+    "fold": 2,
+    "params": {}
+  },
+  {
+    "trait": "SPAD",
+    "model": "Mean_B",
+    "fold": 3,
+    "params": {}
+  },
+  {
+    "trait": "SPAD",
+    "model": "Mean_B",
+    "fold": 4,
+    "params": {}
+  },
+  {
+    "trait": "SPAD",
+    "model": "Mean_B",
+    "fold": 5,
+    "params": {}
+  },
+  {
+    "trait": "SPAD",
+    "model": "Mean_B",
+    "fold": "final",
+    "params": {}
+  },
+  {
+    "trait": "SPAD",
+    "model": "G_over_R",
+    "fold": 1,
+    "params": {}
+  },
+  {
+    "trait": "SPAD",
+    "model": "G_over_R",
+    "fold": 2,
+    "params": {}
+  },
+  {
+    "trait": "SPAD",
+    "model": "G_over_R",
+    "fold": 3,
+    "params": {}
+  },
+  {
+    "trait": "SPAD",
+    "model": "G_over_R",
+    "fold": 4,
+    "params": {}
+  },
+  {
+    "trait": "SPAD",
+    "model": "G_over_R",
+    "fold": 5,
+    "params": {}
+  },
+  {
+    "trait": "SPAD",
+    "model": "G_over_R",
+    "fold": "final",
+    "params": {}
+  },
+  {
+    "trait": "SPAD",
+    "model": "G_over_B",
+    "fold": 1,
+    "params": {}
+  },
+  {
+    "trait": "SPAD",
+    "model": "G_over_B",
+    "fold": 2,
+    "params": {}
+  },
+  {
+    "trait": "SPAD",
+    "model": "G_over_B",
+    "fold": 3,
+    "params": {}
+  },
+  {
+    "trait": "SPAD",
+    "model": "G_over_B",
+    "fold": 4,
+    "params": {}
+  },
+  {
+    "trait": "SPAD",
+    "model": "G_over_B",
+    "fold": 5,
+    "params": {}
+  },
+  {
+    "trait": "SPAD",
+    "model": "G_over_B",
+    "fold": "final",
+    "params": {}
+  },
+  {
+    "trait": "SPAD",
+    "model": "Normalized_G",
+    "fold": 1,
+    "params": {}
+  },
+  {
+    "trait": "SPAD",
+    "model": "Normalized_G",
+    "fold": 2,
+    "params": {}
+  },
+  {
+    "trait": "SPAD",
+    "model": "Normalized_G",
+    "fold": 3,
+    "params": {}
+  },
+  {
+    "trait": "SPAD",
+    "model": "Normalized_G",
+    "fold": 4,
+    "params": {}
+  },
+  {
+    "trait": "SPAD",
+    "model": "Normalized_G",
+    "fold": 5,
+    "params": {}
+  },
+  {
+    "trait": "SPAD",
+    "model": "Normalized_G",
+    "fold": "final",
+    "params": {}
+  },
+  {
+    "trait": "SPAD",
+    "model": "NGRDI",
+    "fold": 1,
+    "params": {}
+  },
+  {
+    "trait": "SPAD",
+    "model": "NGRDI",
+    "fold": 2,
+    "params": {}
+  },
+  {
+    "trait": "SPAD",
+    "model": "NGRDI",
+    "fold": 3,
+    "params": {}
+  },
+  {
+    "trait": "SPAD",
+    "model": "NGRDI",
+    "fold": 4,
+    "params": {}
+  },
+  {
+    "trait": "SPAD",
+    "model": "NGRDI",
+    "fold": 5,
+    "params": {}
+  },
+  {
+    "trait": "SPAD",
+    "model": "NGRDI",
+    "fold": "final",
+    "params": {}
+  },
+  {
+    "trait": "SPAD",
+    "model": "NGBDI",
+    "fold": 1,
+    "params": {}
+  },
+  {
+    "trait": "SPAD",
+    "model": "NGBDI",
+    "fold": 2,
+    "params": {}
+  },
+  {
+    "trait": "SPAD",
+    "model": "NGBDI",
+    "fold": 3,
+    "params": {}
+  },
+  {
+    "trait": "SPAD",
+    "model": "NGBDI",
+    "fold": 4,
+    "params": {}
+  },
+  {
+    "trait": "SPAD",
+    "model": "NGBDI",
+    "fold": 5,
+    "params": {}
+  },
+  {
+    "trait": "SPAD",
+    "model": "NGBDI",
+    "fold": "final",
+    "params": {}
+  },
+  {
+    "trait": "SPAD",
+    "model": "GLI",
+    "fold": 1,
+    "params": {}
+  },
+  {
+    "trait": "SPAD",
+    "model": "GLI",
+    "fold": 2,
+    "params": {}
+  },
+  {
+    "trait": "SPAD",
+    "model": "GLI",
+    "fold": 3,
+    "params": {}
+  },
+  {
+    "trait": "SPAD",
+    "model": "GLI",
+    "fold": 4,
+    "params": {}
+  },
+  {
+    "trait": "SPAD",
+    "model": "GLI",
+    "fold": 5,
+    "params": {}
+  },
+  {
+    "trait": "SPAD",
+    "model": "GLI",
+    "fold": "final",
+    "params": {}
+  },
+  {
+    "trait": "SPAD",
+    "model": "ExG",
+    "fold": 1,
+    "params": {}
+  },
+  {
+    "trait": "SPAD",
+    "model": "ExG",
+    "fold": 2,
+    "params": {}
+  },
+  {
+    "trait": "SPAD",
+    "model": "ExG",
+    "fold": 3,
+    "params": {}
+  },
+  {
+    "trait": "SPAD",
+    "model": "ExG",
+    "fold": 4,
+    "params": {}
+  },
+  {
+    "trait": "SPAD",
+    "model": "ExG",
+    "fold": 5,
+    "params": {}
+  },
+  {
+    "trait": "SPAD",
+    "model": "ExG",
+    "fold": "final",
+    "params": {}
+  },
+  {
+    "trait": "SPAD",
+    "model": "VARI",
+    "fold": 1,
+    "params": {}
+  },
+  {
+    "trait": "SPAD",
+    "model": "VARI",
+    "fold": 2,
+    "params": {}
+  },
+  {
+    "trait": "SPAD",
+    "model": "VARI",
+    "fold": 3,
+    "params": {}
+  },
+  {
+    "trait": "SPAD",
+    "model": "VARI",
+    "fold": 4,
+    "params": {}
+  },
+  {
+    "trait": "SPAD",
+    "model": "VARI",
+    "fold": 5,
+    "params": {}
+  },
+  {
+    "trait": "SPAD",
+    "model": "VARI",
+    "fold": "final",
+    "params": {}
+  },
+  {
+    "trait": "SPAD",
+    "model": "RGB_OLS",
+    "fold": 1,
+    "params": {}
+  },
+  {
+    "trait": "SPAD",
+    "model": "RGB_OLS",
+    "fold": 2,
+    "params": {}
+  },
+  {
+    "trait": "SPAD",
+    "model": "RGB_OLS",
+    "fold": 3,
+    "params": {}
+  },
+  {
+    "trait": "SPAD",
+    "model": "RGB_OLS",
+    "fold": 4,
+    "params": {}
+  },
+  {
+    "trait": "SPAD",
+    "model": "RGB_OLS",
+    "fold": 5,
+    "params": {}
+  },
+  {
+    "trait": "SPAD",
+    "model": "RGB_OLS",
+    "fold": "final",
+    "params": {}
+  },
+  {
+    "trait": "SPAD",
+    "model": "RGB_Quadratic",
+    "fold": 1,
+    "params": {
+      "ridge__alpha": 1
+    }
+  },
+  {
+    "trait": "SPAD",
+    "model": "RGB_Quadratic",
+    "fold": 2,
+    "params": {
+      "ridge__alpha": 0.01
+    }
+  },
+  {
+    "trait": "SPAD",
+    "model": "RGB_Quadratic",
+    "fold": 3,
+    "params": {
+      "ridge__alpha": 0.01
+    }
+  },
+  {
+    "trait": "SPAD",
+    "model": "RGB_Quadratic",
+    "fold": 4,
+    "params": {
+      "ridge__alpha": 0.01
+    }
+  },
+  {
+    "trait": "SPAD",
+    "model": "RGB_Quadratic",
+    "fold": 5,
+    "params": {
+      "ridge__alpha": 0.1
+    }
+  },
+  {
+    "trait": "SPAD",
+    "model": "RGB_Quadratic",
+    "fold": "final",
+    "params": {
+      "ridge__alpha": 0.01
+    }
+  }
+]
