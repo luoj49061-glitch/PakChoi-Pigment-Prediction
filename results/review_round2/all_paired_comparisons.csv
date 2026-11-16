@@ -1,0 +1,217 @@
+trait,A,B,best_ML_selected_by_outer_CV,uncertainty,metric,delta_B_minus_A,ci95_low,ci95_high,bootstrap_source_groups,n
+chl_a,PLS,ResNet18_Fusion,False,conditional source-group bootstrap on fixed trained models; not training-seed uncertainty,R2,0.6029135940836698,0.495230225773414,0.8166110147916393,138,173
+chl_a,PLS,ResNet18_Fusion,False,conditional source-group bootstrap on fixed trained models; not training-seed uncertainty,RMSE,-1.0555817676151285,-1.381223996056377,-0.7389780947503553,138,173
+chl_a,PLS,ResNet18_Fusion,False,conditional source-group bootstrap on fixed trained models; not training-seed uncertainty,MAE,-0.948508927049836,-1.1373261273863575,-0.7609315117617466,138,173
+chl_a,SVR,ResNet18_Fusion,True,conditional source-group bootstrap on fixed trained models; not training-seed uncertainty,R2,0.0586313792475168,-0.0349653587373445,0.1322710130274291,138,173
+chl_a,SVR,ResNet18_Fusion,True,conditional source-group bootstrap on fixed trained models; not training-seed uncertainty,RMSE,-0.1718922335711469,-0.4536589534075207,0.0745544657536904,138,173
+chl_a,SVR,ResNet18_Fusion,True,conditional source-group bootstrap on fixed trained models; not training-seed uncertainty,MAE,-0.0614803441943432,-0.1660467735581761,0.0263076051870895,138,173
+chl_a,Random_Forest,ResNet18_Fusion,False,conditional source-group bootstrap on fixed trained models; not training-seed uncertainty,R2,0.0767073272045217,-0.0091760039095311,0.1347019112444367,138,173
+chl_a,Random_Forest,ResNet18_Fusion,False,conditional source-group bootstrap on fixed trained models; not training-seed uncertainty,RMSE,-0.2173456286436805,-0.47017953670396,0.019570617146015,138,173
+chl_a,Random_Forest,ResNet18_Fusion,False,conditional source-group bootstrap on fixed trained models; not training-seed uncertainty,MAE,-0.208215808492594,-0.3143634040956788,-0.1042614186121518,138,173
+chl_a,XGBoost,ResNet18_Fusion,False,conditional source-group bootstrap on fixed trained models; not training-seed uncertainty,R2,0.1425310838927627,0.0585725672208754,0.2257071123410817,138,173
+chl_a,XGBoost,ResNet18_Fusion,False,conditional source-group bootstrap on fixed trained models; not training-seed uncertainty,RMSE,-0.3643436532213515,-0.6326674742479574,-0.1263236526095818,138,173
+chl_a,XGBoost,ResNet18_Fusion,False,conditional source-group bootstrap on fixed trained models; not training-seed uncertainty,MAE,-0.3330411701010819,-0.451044307284904,-0.2227194135247357,138,173
+chl_a,KNN,ResNet18_Fusion,False,conditional source-group bootstrap on fixed trained models; not training-seed uncertainty,R2,0.1384293046109396,-0.0322129024971426,0.4219584758387284,138,173
+chl_a,KNN,ResNet18_Fusion,False,conditional source-group bootstrap on fixed trained models; not training-seed uncertainty,RMSE,-0.3558662976314203,-0.7018066838474812,0.1058735415452801,138,173
+chl_a,KNN,ResNet18_Fusion,False,conditional source-group bootstrap on fixed trained models; not training-seed uncertainty,MAE,-0.0321355988372448,-0.1927843993235897,0.121697645142123,138,173
+chl_b,PLS,ResNet18_Fusion,False,conditional source-group bootstrap on fixed trained models; not training-seed uncertainty,R2,0.7349746401187377,0.5905866272989406,1.0834230695596525,138,173
+chl_b,PLS,ResNet18_Fusion,False,conditional source-group bootstrap on fixed trained models; not training-seed uncertainty,RMSE,-1.3983445647199686,-1.8165577372135449,-0.9971421229826948,138,173
+chl_b,PLS,ResNet18_Fusion,False,conditional source-group bootstrap on fixed trained models; not training-seed uncertainty,MAE,-1.280577829082528,-1.5158487274814316,-1.0648575493609402,138,173
+chl_b,SVR,ResNet18_Fusion,True,conditional source-group bootstrap on fixed trained models; not training-seed uncertainty,R2,0.1719422297747307,-0.0060983208763268,0.3208032592880338,138,173
+chl_b,SVR,ResNet18_Fusion,True,conditional source-group bootstrap on fixed trained models; not training-seed uncertainty,RMSE,-0.4982822444228848,-1.0520198108573524,0.0153457327848532,138,173
+chl_b,SVR,ResNet18_Fusion,True,conditional source-group bootstrap on fixed trained models; not training-seed uncertainty,MAE,-0.1423911372725819,-0.350049474728916,0.0136286549482764,138,173
+chl_b,Random_Forest,ResNet18_Fusion,False,conditional source-group bootstrap on fixed trained models; not training-seed uncertainty,R2,0.1705888769076423,0.0688307481655627,0.2559053278214343,138,173
+chl_b,Random_Forest,ResNet18_Fusion,False,conditional source-group bootstrap on fixed trained models; not training-seed uncertainty,RMSE,-0.4952369232647471,-0.87025070097,-0.1468002852107213,138,173
+chl_b,Random_Forest,ResNet18_Fusion,False,conditional source-group bootstrap on fixed trained models; not training-seed uncertainty,MAE,-0.4497526347720478,-0.5950568937727782,-0.3172709164114115,138,173
+chl_b,XGBoost,ResNet18_Fusion,False,conditional source-group bootstrap on fixed trained models; not training-seed uncertainty,R2,0.2741919918938789,0.1680040897426227,0.4042697517135889,138,173
+chl_b,XGBoost,ResNet18_Fusion,False,conditional source-group bootstrap on fixed trained models; not training-seed uncertainty,RMSE,-0.7081898951698453,-1.1097473445647772,-0.3659239613809807,138,173
+chl_b,XGBoost,ResNet18_Fusion,False,conditional source-group bootstrap on fixed trained models; not training-seed uncertainty,MAE,-0.5749957124686195,-0.7528493833157133,-0.4239405341496544,138,173
+chl_b,KNN,ResNet18_Fusion,False,conditional source-group bootstrap on fixed trained models; not training-seed uncertainty,R2,0.2673165329327524,0.0285594922008985,0.739883109372192,138,173
+chl_b,KNN,ResNet18_Fusion,False,conditional source-group bootstrap on fixed trained models; not training-seed uncertainty,RMSE,-0.6951336246428006,-1.1008297010815873,-0.1184540279321486,138,173
+chl_b,KNN,ResNet18_Fusion,False,conditional source-group bootstrap on fixed trained models; not training-seed uncertainty,MAE,-0.098612667099609,-0.3139230148189349,0.0845921386042642,138,173
+total_chl,PLS,ResNet18_Fusion,False,conditional source-group bootstrap on fixed trained models; not training-seed uncertainty,R2,0.6712096170366774,0.5276175499266893,0.9690066677166556,138,173
+total_chl,PLS,ResNet18_Fusion,False,conditional source-group bootstrap on fixed trained models; not training-seed uncertainty,RMSE,-2.5510382089802484,-3.379179297759168,-1.6810093747357693,138,173
+total_chl,PLS,ResNet18_Fusion,False,conditional source-group bootstrap on fixed trained models; not training-seed uncertainty,MAE,-2.3491468779619566,-2.8115824958601854,-1.9115349811938305,138,173
+total_chl,SVR,ResNet18_Fusion,False,conditional source-group bootstrap on fixed trained models; not training-seed uncertainty,R2,0.2746320523157754,0.0402983956863878,0.4342561385560627,138,173
+total_chl,SVR,ResNet18_Fusion,False,conditional source-group bootstrap on fixed trained models; not training-seed uncertainty,RMSE,-1.353346183101878,-2.511077680230493,-0.1605893330877724,138,173
+total_chl,SVR,ResNet18_Fusion,False,conditional source-group bootstrap on fixed trained models; not training-seed uncertainty,MAE,-0.3724037920264808,-0.8479132290409751,0.0277907386470028,138,173
+total_chl,Random_Forest,ResNet18_Fusion,False,conditional source-group bootstrap on fixed trained models; not training-seed uncertainty,R2,0.0929513881244995,-0.0444553224767941,0.1759402567221715,138,173
+total_chl,Random_Forest,ResNet18_Fusion,False,conditional source-group bootstrap on fixed trained models; not training-seed uncertainty,RMSE,-0.5685394819192768,-1.296941636650522,0.1850495639774568,138,173
+total_chl,Random_Forest,ResNet18_Fusion,False,conditional source-group bootstrap on fixed trained models; not training-seed uncertainty,MAE,-0.5616613404965051,-0.8160686913514037,-0.3078933006572968,138,173
+total_chl,XGBoost,ResNet18_Fusion,True,conditional source-group bootstrap on fixed trained models; not training-seed uncertainty,R2,0.2000657425970228,0.0888115729676175,0.3169143679902136,138,173
+total_chl,XGBoost,ResNet18_Fusion,True,conditional source-group bootstrap on fixed trained models; not training-seed uncertainty,RMSE,-1.062429951247356,-1.8486787902435344,-0.3595528237585027,138,173
+total_chl,XGBoost,ResNet18_Fusion,True,conditional source-group bootstrap on fixed trained models; not training-seed uncertainty,MAE,-0.9219407728272369,-1.2266933378544154,-0.6440454895822251,138,173
+total_chl,KNN,ResNet18_Fusion,False,conditional source-group bootstrap on fixed trained models; not training-seed uncertainty,R2,0.1896470728437607,-0.0040381338929194,0.5497062630700082,138,173
+total_chl,KNN,ResNet18_Fusion,False,conditional source-group bootstrap on fixed trained models; not training-seed uncertainty,RMSE,-1.0189301879296009,-1.7295748880685653,0.0339083044717028,138,173
+total_chl,KNN,ResNet18_Fusion,False,conditional source-group bootstrap on fixed trained models; not training-seed uncertainty,MAE,-0.0683176425426682,-0.4371012615753845,0.2537908441557352,138,173
+carot,PLS,ResNet18_Fusion,False,conditional source-group bootstrap on fixed trained models; not training-seed uncertainty,R2,0.7336727011899641,0.5817766472218912,1.0583914203125102,138,173
+carot,PLS,ResNet18_Fusion,False,conditional source-group bootstrap on fixed trained models; not training-seed uncertainty,RMSE,-1.5464333995187804,-1.9184345971284933,-1.174522666006695,138,173
+carot,PLS,ResNet18_Fusion,False,conditional source-group bootstrap on fixed trained models; not training-seed uncertainty,MAE,-1.403020685737933,-1.6516093146703303,-1.1723981168380535,138,173
+carot,SVR,ResNet18_Fusion,True,conditional source-group bootstrap on fixed trained models; not training-seed uncertainty,R2,0.185162724347848,0.0215590972514095,0.3343117988494734,138,173
+carot,SVR,ResNet18_Fusion,True,conditional source-group bootstrap on fixed trained models; not training-seed uncertainty,RMSE,-0.5990320615623567,-1.157552168647072,-0.0766551566961286,138,173
+carot,SVR,ResNet18_Fusion,True,conditional source-group bootstrap on fixed trained models; not training-seed uncertainty,MAE,-0.1862624949713556,-0.3985774194616013,-0.0261124946765982,138,173
+carot,Random_Forest,ResNet18_Fusion,False,conditional source-group bootstrap on fixed trained models; not training-seed uncertainty,R2,0.1906445239403634,0.1168904640914109,0.2617455390932383,138,173
+carot,Random_Forest,ResNet18_Fusion,False,conditional source-group bootstrap on fixed trained models; not training-seed uncertainty,RMSE,-0.6122114668864577,-0.9304821167450176,-0.2895352484633412,138,173
+carot,Random_Forest,ResNet18_Fusion,False,conditional source-group bootstrap on fixed trained models; not training-seed uncertainty,MAE,-0.5245185906357053,-0.6678048749603975,-0.3896154267889754,138,173
+carot,XGBoost,ResNet18_Fusion,False,conditional source-group bootstrap on fixed trained models; not training-seed uncertainty,R2,0.2757427477951235,0.1709195369730142,0.4059373979141138,138,173
+carot,XGBoost,ResNet18_Fusion,False,conditional source-group bootstrap on fixed trained models; not training-seed uncertainty,RMSE,-0.8008355864968973,-1.1874208659478138,-0.4452661390879046,138,173
+carot,XGBoost,ResNet18_Fusion,False,conditional source-group bootstrap on fixed trained models; not training-seed uncertainty,MAE,-0.6326163765585582,-0.8061409234293077,-0.4792464644195975,138,173
+carot,KNN,ResNet18_Fusion,False,conditional source-group bootstrap on fixed trained models; not training-seed uncertainty,R2,0.2964725135146755,0.0536032149385858,0.8080009712759177,138,173
+carot,KNN,ResNet18_Fusion,False,conditional source-group bootstrap on fixed trained models; not training-seed uncertainty,RMSE,-0.8430181962854386,-1.3078028568544149,-0.2752654983016675,138,173
+carot,KNN,ResNet18_Fusion,False,conditional source-group bootstrap on fixed trained models; not training-seed uncertainty,MAE,-0.1769555030092588,-0.4161733440416807,0.0241119927241317,138,173
+total_carot,PLS,ResNet18_Fusion,False,conditional source-group bootstrap on fixed trained models; not training-seed uncertainty,R2,0.8705146792422545,0.6648126698679901,1.1972454763280007,138,173
+total_carot,PLS,ResNet18_Fusion,False,conditional source-group bootstrap on fixed trained models; not training-seed uncertainty,RMSE,-0.907631434390634,-1.109084286385565,-0.7087253701582517,138,173
+total_carot,PLS,ResNet18_Fusion,False,conditional source-group bootstrap on fixed trained models; not training-seed uncertainty,MAE,-0.7390395872987342,-0.876428795706901,-0.6021049688459053,138,173
+total_carot,SVR,ResNet18_Fusion,True,conditional source-group bootstrap on fixed trained models; not training-seed uncertainty,R2,0.0017252836111775,-0.0372798474448916,0.0314752238845244,138,173
+total_carot,SVR,ResNet18_Fusion,True,conditional source-group bootstrap on fixed trained models; not training-seed uncertainty,RMSE,-0.0045318853819906,-0.0930740108540247,0.0722139423908041,138,173
+total_carot,SVR,ResNet18_Fusion,True,conditional source-group bootstrap on fixed trained models; not training-seed uncertainty,MAE,0.0004251823669548,-0.0433102698703771,0.0393704430619395,138,173
+total_carot,Random_Forest,ResNet18_Fusion,False,conditional source-group bootstrap on fixed trained models; not training-seed uncertainty,R2,0.2139130942945318,0.1340621672101622,0.2916690903307285,138,173
+total_carot,Random_Forest,ResNet18_Fusion,False,conditional source-group bootstrap on fixed trained models; not training-seed uncertainty,RMSE,-0.3538943778257123,-0.5081765798019515,-0.2017123254969011,138,173
+total_carot,Random_Forest,ResNet18_Fusion,False,conditional source-group bootstrap on fixed trained models; not training-seed uncertainty,MAE,-0.2583943172424478,-0.3439492857140168,-0.1782575447306366,138,173
+total_carot,XGBoost,ResNet18_Fusion,False,conditional source-group bootstrap on fixed trained models; not training-seed uncertainty,R2,0.2834053563927098,0.1964971608682983,0.3820626084158764,138,173
+total_carot,XGBoost,ResNet18_Fusion,False,conditional source-group bootstrap on fixed trained models; not training-seed uncertainty,RMSE,-0.4327197101023755,-0.5955958990699414,-0.2748392392386092,138,173
+total_carot,XGBoost,ResNet18_Fusion,False,conditional source-group bootstrap on fixed trained models; not training-seed uncertainty,MAE,-0.3304512218528714,-0.4224763562381375,-0.2460890393805026,138,173
+total_carot,KNN,ResNet18_Fusion,False,conditional source-group bootstrap on fixed trained models; not training-seed uncertainty,R2,0.1873884065212012,0.0367258733211702,0.4226953824722669,138,173
+total_carot,KNN,ResNet18_Fusion,False,conditional source-group bootstrap on fixed trained models; not training-seed uncertainty,RMSE,-0.3211536504713488,-0.4898760134404747,-0.0891976239194069,138,173
+total_carot,KNN,ResNet18_Fusion,False,conditional source-group bootstrap on fixed trained models; not training-seed uncertainty,MAE,-0.0425997853420057,-0.1499218996368119,0.0537693026623541,138,173
+SPAD,PLS,ResNet18_Fusion,False,conditional source-group bootstrap on fixed trained models; not training-seed uncertainty,R2,0.2718821403639266,0.1869657325581033,0.3906490917663872,138,173
+SPAD,PLS,ResNet18_Fusion,False,conditional source-group bootstrap on fixed trained models; not training-seed uncertainty,RMSE,-1.351872459377076,-1.7507865506168985,-1.031969895235507,138,173
+SPAD,PLS,ResNet18_Fusion,False,conditional source-group bootstrap on fixed trained models; not training-seed uncertainty,MAE,-1.2225878703203308,-1.4829845396393284,-0.9797940782230082,138,173
+SPAD,SVR,ResNet18_Fusion,True,conditional source-group bootstrap on fixed trained models; not training-seed uncertainty,R2,0.0197047550094998,-0.0275549804803818,0.0770354669044381,138,173
+SPAD,SVR,ResNet18_Fusion,True,conditional source-group bootstrap on fixed trained models; not training-seed uncertainty,RMSE,-0.147273332178735,-0.5276830286742932,0.1933021697149316,138,173
+SPAD,SVR,ResNet18_Fusion,True,conditional source-group bootstrap on fixed trained models; not training-seed uncertainty,MAE,0.0986704101951904,-0.0838929616714799,0.2632350148144627,138,173
+SPAD,Random_Forest,ResNet18_Fusion,False,conditional source-group bootstrap on fixed trained models; not training-seed uncertainty,R2,0.0160508389520706,-0.0515197313382596,0.0671545773753746,138,173
+SPAD,Random_Forest,ResNet18_Fusion,False,conditional source-group bootstrap on fixed trained models; not training-seed uncertainty,RMSE,-0.1212806581269994,-0.4949646159433094,0.3240316178649613,138,173
+SPAD,Random_Forest,ResNet18_Fusion,False,conditional source-group bootstrap on fixed trained models; not training-seed uncertainty,MAE,-0.1597743490588703,-0.3277534594962728,0.0274413061935444,138,173
+SPAD,XGBoost,ResNet18_Fusion,False,conditional source-group bootstrap on fixed trained models; not training-seed uncertainty,R2,0.0773723421835121,-0.0089237958724807,0.1642409935788135,138,173
+SPAD,XGBoost,ResNet18_Fusion,False,conditional source-group bootstrap on fixed trained models; not training-seed uncertainty,RMSE,-0.5034013940000943,-0.96744012815563,0.0527241937771065,138,173
+SPAD,XGBoost,ResNet18_Fusion,False,conditional source-group bootstrap on fixed trained models; not training-seed uncertainty,MAE,-0.5253815983531555,-0.7489135050372713,-0.2835213886896749,138,173
+SPAD,KNN,ResNet18_Fusion,False,conditional source-group bootstrap on fixed trained models; not training-seed uncertainty,R2,0.1085299761722591,0.0127131150779224,0.2694629555572962,138,173
+SPAD,KNN,ResNet18_Fusion,False,conditional source-group bootstrap on fixed trained models; not training-seed uncertainty,RMSE,-0.6665730776902252,-1.2889966678228593,-0.1129013071152558,138,173
+SPAD,KNN,ResNet18_Fusion,False,conditional source-group bootstrap on fixed trained models; not training-seed uncertainty,MAE,-0.0259714696218965,-0.3089849293561652,0.2325597386503414,138,173
+total_chl,Mean_G,ResNet18_Fusion,,,R2,0.884550413909829,0.7552395520939669,0.9808516770515581,138,173
+total_chl,Mean_G,ResNet18_Fusion,,,RMSE,-3.0626344499510507,-4.311902096371043,-1.8254893866226913,138,173
+total_chl,Mean_G,ResNet18_Fusion,,,MAE,-2.1746865780094002,-2.847307294417788,-1.5735264470606851,138,173
+total_chl,G_over_R,ResNet18_Fusion,,,R2,0.8664438734299051,0.738474483397434,0.9879924507303313,138,173
+total_chl,G_over_R,ResNet18_Fusion,,,RMSE,-3.0215442106685257,-4.233480698273329,-1.8535346572015556,138,173
+total_chl,G_over_R,ResNet18_Fusion,,,MAE,-2.1994281973142815,-2.844042263476678,-1.5991248158817135,138,173
+total_chl,Normalized_G,ResNet18_Fusion,,,R2,0.881443281673496,0.750339118961401,1.0026814104134665,138,173
+total_chl,Normalized_G,ResNet18_Fusion,,,RMSE,-3.055610537975248,-4.275367423649005,-1.8570437005325378,138,173
+total_chl,Normalized_G,ResNet18_Fusion,,,MAE,-2.303172651973586,-2.938725111660082,-1.7196315066165189,138,173
+total_chl,NGRDI,ResNet18_Fusion,,,R2,0.8648571310191727,0.7374183301721116,0.9882741240729674,138,173
+total_chl,NGRDI,ResNet18_Fusion,,,RMSE,-3.017924869465892,-4.227193633514458,-1.8494579354933047,138,173
+total_chl,NGRDI,ResNet18_Fusion,,,MAE,-2.197035840709278,-2.84489103762151,-1.6000864287349887,138,173
+total_chl,GLI,ResNet18_Fusion,,,R2,0.8821346025677074,0.7516493836038274,1.00213656660447,138,173
+total_chl,GLI,ResNet18_Fusion,,,RMSE,-3.057174292063551,-4.277584010333223,-1.8579953740415138,138,173
+total_chl,GLI,ResNet18_Fusion,,,MAE,-2.305292410735416,-2.939052506425708,-1.7206626867390593,138,173
+total_chl,ExG,ResNet18_Fusion,,,R2,0.9205793421908939,0.7888102361847429,1.011548572885087,138,173
+total_chl,ExG,ResNet18_Fusion,,,RMSE,-3.1432775383552105,-4.396043909183954,-1.9017547299298383,138,173
+total_chl,ExG,ResNet18_Fusion,,,MAE,-2.315649550307869,-2.9822103445885344,-1.7164451574137114,138,173
+total_chl,RGB_OLS,ResNet18_Fusion,,,R2,0.8607623199912174,0.7425479444757236,0.987872124064708,138,173
+total_chl,RGB_OLS,ResNet18_Fusion,,,RMSE,-3.0085707428147623,-4.186477024985325,-1.8520642363847,138,173
+total_chl,RGB_OLS,ResNet18_Fusion,,,MAE,-2.278248775129094,-2.896076406339525,-1.6931867693380092,138,173
+chl_a,Mean_G,ResNet18_Fusion,,,R2,0.9004827651811252,0.805692868532051,0.992087557657131,138,173
+chl_a,Mean_G,ResNet18_Fusion,,,RMSE,-1.3757702530386098,-1.854770973964237,-0.9042154797065292,138,173
+chl_a,Mean_G,ResNet18_Fusion,,,MAE,-1.0316936201468372,-1.3014506666491765,-0.7754852099625628,138,173
+chl_a,G_over_R,ResNet18_Fusion,,,R2,0.8785690890307984,0.7833209839689358,0.9934968933068773,138,173
+chl_a,G_over_R,ResNet18_Fusion,,,RMSE,-1.3540100657463676,-1.8204305286445013,-0.9001807585401737,138,173
+chl_a,G_over_R,ResNet18_Fusion,,,MAE,-1.0496116810614735,-1.3084251774447095,-0.7924481224332676,138,173
+chl_a,Normalized_G,ResNet18_Fusion,,,R2,0.8959192140235481,0.7962405611154211,1.002621111152254,138,173
+chl_a,Normalized_G,ResNet18_Fusion,,,RMSE,-1.3712587843117756,-1.8430723230896624,-0.9141406805388705,138,173
+chl_a,Normalized_G,ResNet18_Fusion,,,MAE,-1.0554083375127639,-1.317667927669416,-0.8025148581286119,138,173
+chl_a,NGRDI,ResNet18_Fusion,,,R2,0.877160193665561,0.7810548535294433,0.9931857241804094,138,173
+chl_a,NGRDI,ResNet18_Fusion,,,RMSE,-1.3526026085703542,-1.8166567659551016,-0.8998105973035545,138,173
+chl_a,NGRDI,ResNet18_Fusion,,,MAE,-1.0491325567314376,-1.307144655362755,-0.792316584059707,138,173
+chl_a,GLI,ResNet18_Fusion,,,R2,0.8966775047808726,0.7978466688119114,1.0026904887643124,138,173
+chl_a,GLI,ResNet18_Fusion,,,RMSE,-1.372009147313454,-1.8433941197989174,-0.9142989017514399,138,173
+chl_a,GLI,ResNet18_Fusion,,,MAE,-1.0562055266326416,-1.3183661664852528,-0.8043869825578871,138,173
+chl_a,ExG,ResNet18_Fusion,,,R2,0.925750353897892,0.8320865228339271,1.0109201032146462,138,173
+chl_a,ExG,ResNet18_Fusion,,,RMSE,-1.4005624799358887,-1.8843183164424482,-0.9261563543855877,138,173
+chl_a,ExG,ResNet18_Fusion,,,MAE,-1.0543766912160433,-1.3307812805069144,-0.802828980231487,138,173
+chl_a,RGB_OLS,ResNet18_Fusion,,,R2,0.8754606652223962,0.7838693360195812,0.9950969216165261,138,173
+chl_a,RGB_OLS,ResNet18_Fusion,,,RMSE,-1.350903442065085,-1.803444727934291,-0.903772337961377,138,173
+chl_a,RGB_OLS,ResNet18_Fusion,,,MAE,-1.065345377835274,-1.316515150313164,-0.8183236340566922,138,173
+chl_b,Mean_G,ResNet18_Fusion,,,R2,0.8837863676883154,0.7696428947359238,0.9890633930471243,138,173
+chl_b,Mean_G,ResNet18_Fusion,,,RMSE,-1.5751750596203722,-2.2038417997347843,-0.986535784702711,138,173
+chl_b,Mean_G,ResNet18_Fusion,,,MAE,-1.212615380982912,-1.5249591355193817,-0.9274208377879033,138,173
+chl_b,G_over_R,ResNet18_Fusion,,,R2,0.8839124415010432,0.7700755882834274,1.0170503345358426,138,173
+chl_b,G_over_R,ResNet18_Fusion,,,RMSE,-1.5753188076200264,-2.1781473018302546,-1.0061110899167305,138,173
+chl_b,G_over_R,ResNet18_Fusion,,,MAE,-1.2310344687703683,-1.5340012687116371,-0.9528574791955675,138,173
+chl_b,Normalized_G,ResNet18_Fusion,,,R2,0.9024740791123469,0.7902376636070545,1.0428766508633345,138,173
+chl_b,Normalized_G,ResNet18_Fusion,,,RMSE,-1.5963804453089077,-2.1930722582677515,-1.0250211459723744,138,173
+chl_b,Normalized_G,ResNet18_Fusion,,,MAE,-1.2672835337900534,-1.570590718882818,-0.9984906212641235,138,173
+chl_b,NGRDI,ResNet18_Fusion,,,R2,0.881620307530839,0.7704176643114446,1.0140169606952936,138,173
+chl_b,NGRDI,ResNet18_Fusion,,,RMSE,-1.5727038633681898,-2.1739428874644227,-1.005106399346339,138,173
+chl_b,NGRDI,ResNet18_Fusion,,,MAE,-1.231543665701706,-1.534925016188117,-0.9526020094589486,138,173
+chl_b,GLI,ResNet18_Fusion,,,R2,0.9029730639293209,0.7917995787695716,1.0427384405822049,138,173
+chl_b,GLI,ResNet18_Fusion,,,RMSE,-1.5969438635975803,-2.1936365520377077,-1.025076381937664,138,173
+chl_b,GLI,ResNet18_Fusion,,,MAE,-1.2702741489439326,-1.5730926138692,-1.0016648542607531,138,173
+chl_b,ExG,ResNet18_Fusion,,,R2,0.9377178707637663,0.8241152616829451,1.0326258904091545,138,173
+chl_b,ExG,ResNet18_Fusion,,,RMSE,-1.6358278464571099,-2.2584746358938332,-1.0262081461686363,138,173
+chl_b,ExG,ResNet18_Fusion,,,MAE,-1.3059355818175125,-1.623685579397645,-1.0233259890626858,138,173
+chl_b,RGB_OLS,ResNet18_Fusion,,,R2,0.8710909941847699,0.7689146560131718,1.0104089009146295,138,173
+chl_b,RGB_OLS,ResNet18_Fusion,,,RMSE,-1.560651212391109,-2.1488675299250337,-1.0044820188342363,138,173
+chl_b,RGB_OLS,ResNet18_Fusion,,,MAE,-1.245411895410809,-1.5416114045168559,-0.9770956126289906,138,173
+carot,Mean_G,ResNet18_Fusion,,,R2,0.8823957839498494,0.7954764650447401,0.9873049946537937,138,173
+carot,Mean_G,ResNet18_Fusion,,,RMSE,-1.7376774387027856,-2.301880729000323,-1.204039595703667,138,173
+carot,Mean_G,ResNet18_Fusion,,,MAE,-1.40791045738798,-1.7115414607808461,-1.1328368027332092,138,173
+carot,G_over_R,ResNet18_Fusion,,,R2,0.888227797410081,0.8031065167557685,1.0171832664553266,138,173
+carot,G_over_R,ResNet18_Fusion,,,RMSE,-1.7448571827693897,-2.2953432610080884,-1.2309066826096045,138,173
+carot,G_over_R,ResNet18_Fusion,,,MAE,-1.4302495232975543,-1.730054166074624,-1.1550171950713641,138,173
+carot,Normalized_G,ResNet18_Fusion,,,R2,0.9203091813775869,0.835397653342097,1.0593748439603325,138,173
+carot,Normalized_G,ResNet18_Fusion,,,RMSE,-1.7839634523876502,-2.327701419470166,-1.2649974753990192,138,173
+carot,Normalized_G,ResNet18_Fusion,,,MAE,-1.4525859958635154,-1.7523465154935818,-1.1853920807035845,138,173
+carot,NGRDI,ResNet18_Fusion,,,R2,0.8856768268706487,0.8027632545636209,1.0114746070818015,138,173
+carot,NGRDI,ResNet18_Fusion,,,RMSE,-1.7417194284561945,-2.2886424728945123,-1.2281531869207991,138,173
+carot,NGRDI,ResNet18_Fusion,,,MAE,-1.4297045528169448,-1.7263853481688964,-1.154048808155849,138,173
+carot,GLI,ResNet18_Fusion,,,R2,0.920711465271746,0.8364735611395423,1.0586386608522214,138,173
+carot,GLI,ResNet18_Fusion,,,RMSE,-1.784449729295422,-2.3277616974319684,-1.2626692017409409,138,173
+carot,GLI,ResNet18_Fusion,,,MAE,-1.4556899248032302,-1.7553963062831173,-1.188105965414791,138,173
+carot,ExG,ResNet18_Fusion,,,R2,0.9463292348254477,0.8716677487081347,1.033443295539496,138,173
+carot,ExG,ResNet18_Fusion,,,RMSE,-1.815213453195298,-2.3877121614529515,-1.2605263002677884,138,173
+carot,ExG,ResNet18_Fusion,,,MAE,-1.5205993293091715,-1.8238193024860614,-1.2470285041261242,138,173
+carot,RGB_OLS,ResNet18_Fusion,,,R2,0.8723091497700449,0.790676323854998,1.0096394163658295,138,173
+carot,RGB_OLS,ResNet18_Fusion,,,RMSE,-1.7252072238647036,-2.255129437334878,-1.2203630082114865,138,173
+carot,RGB_OLS,ResNet18_Fusion,,,MAE,-1.4064225655315727,-1.6966855991076337,-1.134266385331706,138,173
+total_carot,Mean_G,ResNet18_Fusion,,,R2,0.9036716007442639,0.829687268157847,0.9942805400434465,138,173
+total_carot,Mean_G,ResNet18_Fusion,,,RMSE,-0.9289668341752105,-1.1681760736069866,-0.6870213602490334,138,173
+total_carot,Mean_G,ResNet18_Fusion,,,MAE,-0.690523976324882,-0.8517020821891643,-0.5424184739164382,138,173
+total_carot,G_over_R,ResNet18_Fusion,,,R2,0.9006491130173878,0.8185530082599455,1.0109866663828315,138,173
+total_carot,G_over_R,ResNet18_Fusion,,,RMSE,-0.9270373926000989,-1.1597247671601525,-0.6997069094468263,138,173
+total_carot,G_over_R,ResNet18_Fusion,,,MAE,-0.6996828365024582,-0.854319378932728,-0.5525270380704065,138,173
+total_carot,Normalized_G,ResNet18_Fusion,,,R2,0.9468832636473867,0.8880604516994663,1.0247801110843155,138,173
+total_carot,Normalized_G,ResNet18_Fusion,,,RMSE,-0.9562262114552772,-1.1904145164579898,-0.7167799103975281,138,173
+total_carot,Normalized_G,ResNet18_Fusion,,,MAE,-0.7170771542656067,-0.8768038278688626,-0.5707557940336863,138,173
+total_carot,NGRDI,ResNet18_Fusion,,,R2,0.8997871362741899,0.8188835131129888,1.0090252644816142,138,173
+total_carot,NGRDI,ResNet18_Fusion,,,RMSE,-0.9264865807738848,-1.1592684791955092,-0.698710734855809,138,173
+total_carot,NGRDI,ResNet18_Fusion,,,MAE,-0.70027162518854,-0.8542352845547001,-0.5546789142704414,138,173
+total_carot,GLI,ResNet18_Fusion,,,R2,0.9470878125257682,0.8883054511713417,1.0243730537576952,138,173
+total_carot,GLI,ResNet18_Fusion,,,RMSE,-0.9563538356196067,-1.1904414627246853,-0.7172575068023903,138,173
+total_carot,GLI,ResNet18_Fusion,,,MAE,-0.7176025832775259,-0.8776111346345867,-0.571087654347318,138,173
+total_carot,ExG,ResNet18_Fusion,,,R2,0.9333661418782173,0.8809956576818267,1.0007843620860284,138,173
+total_carot,ExG,ResNet18_Fusion,,,RMSE,-0.947763423809925,-1.1790688946400243,-0.7065296791749012,138,173
+total_carot,ExG,ResNet18_Fusion,,,MAE,-0.7123572439209227,-0.871461742791476,-0.5635565527131953,138,173
+total_carot,RGB_OLS,ResNet18_Fusion,,,R2,0.8998786772047046,0.8213527599093744,1.005743890364873,138,173
+total_carot,RGB_OLS,ResNet18_Fusion,,,RMSE,-0.9265450881393332,-1.1605316812970334,-0.6969792323682945,138,173
+total_carot,RGB_OLS,ResNet18_Fusion,,,MAE,-0.6977191736374427,-0.8516463269981901,-0.5529972972519805,138,173
+SPAD,Mean_G,ResNet18_Fusion,,,R2,0.9295582660995081,0.8581754257635233,0.9909687559334879,138,173
+SPAD,Mean_G,ResNet18_Fusion,,,RMSE,-3.1068869919215025,-3.8001843367890946,-2.4374476603031816,138,173
+SPAD,Mean_G,ResNet18_Fusion,,,MAE,-2.7145424282743886,-3.1657482269516746,-2.304660354778493,138,173
+SPAD,G_over_R,ResNet18_Fusion,,,R2,0.9101985345899637,0.8180412112505757,0.9859839421241743,138,173
+SPAD,G_over_R,ResNet18_Fusion,,,RMSE,-3.065741538035547,-3.779205947556376,-2.37415126951076,138,173
+SPAD,G_over_R,ResNet18_Fusion,,,MAE,-2.6822935729882027,-3.1308328633738065,-2.27469798377774,138,173
+SPAD,Normalized_G,ResNet18_Fusion,,,R2,0.828551610519037,0.7198587436729564,0.9698538622732203,138,173
+SPAD,Normalized_G,ResNet18_Fusion,,,RMSE,-2.8875755665437532,-3.4898862052577493,-2.3477786341267723,138,173
+SPAD,Normalized_G,ResNet18_Fusion,,,MAE,-2.530508639219056,-2.943709442931813,-2.1451738944583303,138,173
+SPAD,NGRDI,ResNet18_Fusion,,,R2,0.9112428927434295,0.8210941905428528,0.9861027290950294,138,173
+SPAD,NGRDI,ResNet18_Fusion,,,RMSE,-3.0679714307799593,-3.7817927551442416,-2.3755708512488276,138,173
+SPAD,NGRDI,ResNet18_Fusion,,,MAE,-2.684435876199743,-3.134983053128783,-2.275318393530147,138,173
+SPAD,GLI,ResNet18_Fusion,,,R2,0.8262843038430343,0.7178522662801915,0.9677615870419409,138,173
+SPAD,GLI,ResNet18_Fusion,,,RMSE,-2.88251488314498,-3.4802913350197797,-2.34660510982089,138,173
+SPAD,GLI,ResNet18_Fusion,,,MAE,-2.5271582474500476,-2.9376543013546765,-2.140911532893508,138,173
+SPAD,ExG,ResNet18_Fusion,,,R2,0.8194727116346574,0.6883101092592436,0.9606398735759848,138,173
+SPAD,ExG,ResNet18_Fusion,,,RMSE,-2.86727264369775,-3.6003669772966758,-2.1622010873015034,138,173
+SPAD,ExG,ResNet18_Fusion,,,MAE,-2.541858631222329,-2.9890488847547707,-2.1082832731505565,138,173
+SPAD,RGB_OLS,ResNet18_Fusion,,,R2,0.7040194827859002,0.5716317714279988,0.8854431358868203,138,173
+SPAD,RGB_OLS,ResNet18_Fusion,,,RMSE,-2.5994432008700485,-3.221554117627737,-2.0261966598046897,138,173
+SPAD,RGB_OLS,ResNet18_Fusion,,,MAE,-2.238855034238997,-2.646046609418419,-1.8525279028347266,138,173

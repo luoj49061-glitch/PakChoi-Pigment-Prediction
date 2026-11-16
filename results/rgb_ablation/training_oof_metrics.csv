@@ -1,0 +1,13 @@
+trait,model,scope,n,R2,RMSE,MAE
+SPAD,ResNet18_Fusion,Pooled nested outer-fold predictions; not fitted-training scores or mean fold R2,691,0.92030893000390401,1.2902340924587674,0.74408655769285559
+SPAD,ResNet18_RGB,Pooled nested outer-fold predictions; not fitted-training scores or mean fold R2,691,0.90650670627307484,1.3975067501841454,0.90047213402107196
+carot,ResNet18_Fusion,Pooled nested outer-fold predictions; not fitted-training scores or mean fold R2,691,0.85804587605425475,0.98139993493154365,0.44554414680120769
+carot,ResNet18_RGB,Pooled nested outer-fold predictions; not fitted-training scores or mean fold R2,691,0.88204720000724735,0.89459433831620616,0.41655394634394322
+chl_a,ResNet18_Fusion,Pooled nested outer-fold predictions; not fitted-training scores or mean fold R2,691,0.88645144732827641,0.68320642418178612,0.39005458205739529
+chl_a,ResNet18_RGB,Pooled nested outer-fold predictions; not fitted-training scores or mean fold R2,691,0.86060375956924051,0.7569839480443441,0.46495243991121771
+chl_b,ResNet18_Fusion,Pooled nested outer-fold predictions; not fitted-training scores or mean fold R2,691,0.85801386267901492,0.91770855774051441,0.45659867577483509
+chl_b,ResNet18_RGB,Pooled nested outer-fold predictions; not fitted-training scores or mean fold R2,691,0.84436502092724974,0.96080535542988244,0.54310169134472353
+total_carot,ResNet18_Fusion,Pooled nested outer-fold predictions; not fitted-training scores or mean fold R2,691,0.8102902562696912,0.58057617807056661,0.26293505372693338
+total_carot,ResNet18_RGB,Pooled nested outer-fold predictions; not fitted-training scores or mean fold R2,691,0.81535124416838722,0.57277965859776925,0.28080451703370779
+total_chl,ResNet18_Fusion,Pooled nested outer-fold predictions; not fitted-training scores or mean fold R2,691,0.88157425162778591,1.6528001072488632,0.8867859724329108
+total_chl,ResNet18_RGB,Pooled nested outer-fold predictions; not fitted-training scores or mean fold R2,691,0.86394208267956518,1.771573489955405,1.0123738616606606

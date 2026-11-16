@@ -1,0 +1,19 @@
+trait,metric,RGB_only,fusion,delta_fusion_minus_RGB,ci95_low,ci95_high,bootstrap_groups,n_test,interpretation
+chl_a,R2,0.85933264912104768,0.9156750095563746,0.056342360435326921,0.017817728292231803,0.14670792552166115,138,173,Conditional paired group-bootstrap on a fixed test set; not training-seed uncertainty.
+chl_a,RMSE,0.73504411783291479,0.56910827771219252,-0.16593584012072227,-0.28306842136674742,-0.070756304427554817,138,173,Conditional paired group-bootstrap on a fixed test set; not training-seed uncertainty.
+chl_a,MAE,0.41272618530148214,0.30801635578703257,-0.10470982951444957,-0.15279315213252548,-0.068886775576139175,138,173,Conditional paired group-bootstrap on a fixed test set; not training-seed uncertainty.
+chl_b,R2,0.86362751574562679,0.92510885596739456,0.061481340221767766,0.0081430111631538571,0.2053826834533713,138,173,Conditional paired group-bootstrap on a fixed test set; not training-seed uncertainty.
+chl_b,RMSE,0.82455730234016444,0.61104430198709481,-0.21351300035306964,-0.35988257424696135,-0.057213385701523678,138,173,Conditional paired group-bootstrap on a fixed test set; not training-seed uncertainty.
+chl_b,MAE,0.39066705338995905,0.30542488396012119,-0.085242169429837866,-0.14146070833542612,-0.043614514877011235,138,173,Conditional paired group-bootstrap on a fixed test set; not training-seed uncertainty.
+total_chl,R2,0.86509908956987458,0.909432860723139,0.044333771153264423,0.012492211100499978,0.12185861392829166,138,173,Conditional paired group-bootstrap on a fixed test set; not training-seed uncertainty.
+total_chl,RMSE,1.6384714248062398,1.3425076103249476,-0.29596381448129216,-0.46052710227539811,-0.12839355032273447,138,173,Conditional paired group-bootstrap on a fixed test set; not training-seed uncertainty.
+total_chl,MAE,0.89082235199150994,0.70493972739952826,-0.18588262459198168,-0.27412941802127805,-0.11983485460517201,138,173,Conditional paired group-bootstrap on a fixed test set; not training-seed uncertainty.
+carot,R2,0.89738176433646322,0.94004640696455777,0.042664642628094551,-0.0033110295675080671,0.16005275730191004,138,173,Conditional paired group-bootstrap on a fixed test set; not training-seed uncertainty.
+carot,RMSE,0.76684761912571964,0.58614411588878945,-0.18070350323693019,-0.35893628182583542,0.023977338890750464,138,173,Conditional paired group-bootstrap on a fixed test set; not training-seed uncertainty.
+carot,MAE,0.33711841149421107,0.28059155662516311,-0.05652685486904796,-0.119500844260389,-0.010981872775228633,138,173,Conditional paired group-bootstrap on a fixed test set; not training-seed uncertainty.
+total_carot,R2,0.92490862767495186,0.94428687403860456,0.019378246363652707,0.010717806302405796,0.03425135093056187,138,173,Conditional paired group-bootstrap on a fixed test set; not training-seed uncertainty.
+total_carot,RMSE,0.34240968715042874,0.29493735794001441,-0.047472329210414332,-0.067076174138925415,-0.033265377398768635,138,173,Conditional paired group-bootstrap on a fixed test set; not training-seed uncertainty.
+total_carot,MAE,0.23147027958631353,0.19535723662574472,-0.036113042960568803,-0.046746017680142568,-0.025551291401975075,138,173,Conditional paired group-bootstrap on a fixed test set; not training-seed uncertainty.
+SPAD,R2,0.90823907113161306,0.92946552744592958,0.021226456314316522,0.014030179544241277,0.031111232221741853,138,173,Conditional paired group-bootstrap on a fixed test set; not training-seed uncertainty.
+SPAD,RMSE,1.2813989865146593,1.1234563081892734,-0.15794267832538589,-0.24096462020579495,-0.098912058519884827,138,173,Conditional paired group-bootstrap on a fixed test set; not training-seed uncertainty.
+SPAD,MAE,0.87618266640371045,0.72788209492530942,-0.14830057147840103,-0.18890086575593773,-0.1047225721440604,138,173,Conditional paired group-bootstrap on a fixed test set; not training-seed uncertainty.

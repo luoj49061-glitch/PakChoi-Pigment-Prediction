@@ -1,0 +1,19 @@
+trait,A,B,best_ML_selected_by_outer_CV,uncertainty,metric,delta_B_minus_A,ci95_low,ci95_high,bootstrap_source_groups,n
+total_carot,SVR,ResNet18_Fusion,True,conditional source-group bootstrap on fixed trained models; not training-seed uncertainty,R2,0.0017252836111775,-0.0372798474448916,0.0314752238845244,138,173
+total_carot,SVR,ResNet18_Fusion,True,conditional source-group bootstrap on fixed trained models; not training-seed uncertainty,RMSE,-0.0045318853819906,-0.0930740108540247,0.0722139423908041,138,173
+total_carot,SVR,ResNet18_Fusion,True,conditional source-group bootstrap on fixed trained models; not training-seed uncertainty,MAE,0.0004251823669548,-0.0433102698703771,0.0393704430619395,138,173
+SPAD,Random_Forest,ResNet18_Fusion,False,conditional source-group bootstrap on fixed trained models; not training-seed uncertainty,R2,0.0160508389520706,-0.0515197313382596,0.0671545773753746,138,173
+SPAD,Random_Forest,ResNet18_Fusion,False,conditional source-group bootstrap on fixed trained models; not training-seed uncertainty,RMSE,-0.1212806581269994,-0.4949646159433094,0.3240316178649613,138,173
+SPAD,Random_Forest,ResNet18_Fusion,False,conditional source-group bootstrap on fixed trained models; not training-seed uncertainty,MAE,-0.1597743490588703,-0.3277534594962728,0.0274413061935444,138,173
+chl_a,SVR,ResNet18_Fusion,True,conditional source-group bootstrap on fixed trained models; not training-seed uncertainty,R2,0.0586313792475168,-0.0349653587373445,0.1322710130274291,138,173
+chl_a,SVR,ResNet18_Fusion,True,conditional source-group bootstrap on fixed trained models; not training-seed uncertainty,RMSE,-0.1718922335711469,-0.4536589534075207,0.0745544657536904,138,173
+chl_a,SVR,ResNet18_Fusion,True,conditional source-group bootstrap on fixed trained models; not training-seed uncertainty,MAE,-0.0614803441943432,-0.1660467735581761,0.0263076051870895,138,173
+total_chl,Random_Forest,ResNet18_Fusion,False,conditional source-group bootstrap on fixed trained models; not training-seed uncertainty,R2,0.0929513881244995,-0.0444553224767941,0.1759402567221715,138,173
+total_chl,Random_Forest,ResNet18_Fusion,False,conditional source-group bootstrap on fixed trained models; not training-seed uncertainty,RMSE,-0.5685394819192768,-1.296941636650522,0.1850495639774568,138,173
+total_chl,Random_Forest,ResNet18_Fusion,False,conditional source-group bootstrap on fixed trained models; not training-seed uncertainty,MAE,-0.5616613404965051,-0.8160686913514037,-0.3078933006572968,138,173
+carot,SVR,ResNet18_Fusion,True,conditional source-group bootstrap on fixed trained models; not training-seed uncertainty,R2,0.185162724347848,0.0215590972514095,0.3343117988494734,138,173
+carot,SVR,ResNet18_Fusion,True,conditional source-group bootstrap on fixed trained models; not training-seed uncertainty,RMSE,-0.5990320615623567,-1.157552168647072,-0.0766551566961286,138,173
+carot,SVR,ResNet18_Fusion,True,conditional source-group bootstrap on fixed trained models; not training-seed uncertainty,MAE,-0.1862624949713556,-0.3985774194616013,-0.0261124946765982,138,173
+chl_b,Random_Forest,ResNet18_Fusion,False,conditional source-group bootstrap on fixed trained models; not training-seed uncertainty,R2,0.1705888769076423,0.0688307481655627,0.2559053278214343,138,173
+chl_b,Random_Forest,ResNet18_Fusion,False,conditional source-group bootstrap on fixed trained models; not training-seed uncertainty,RMSE,-0.4952369232647471,-0.87025070097,-0.1468002852107213,138,173
+chl_b,Random_Forest,ResNet18_Fusion,False,conditional source-group bootstrap on fixed trained models; not training-seed uncertainty,MAE,-0.4497526347720478,-0.5950568937727782,-0.3172709164114115,138,173
